@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "text": "you",
+      "start_ticks": 697000,
+      "end_ticks": 699400
+    },
+    {
+      "text": "realize",
+      "start_ticks": 699400,
+      "end_ticks": 706600
+    },
+    {
+      "text": "the",
+      "start_ticks": 706600,
+      "end_ticks": 711400
+    },
+    {
+      "text": "problem",
+      "start_ticks": 711400,
+      "end_ticks": 719200
+    },
+    {
+      "text": "was",
+      "start_ticks": 719200,
+      "end_ticks": 723400
+    },
+    {
+      "text": "never",
+      "start_ticks": 723400,
+      "end_ticks": 728200
+    },
+    {
+      "text": "just",
+      "start_ticks": 728200,
+      "end_ticks": 733000
+    },
+    {
+      "text": "intelligence.",
+      "start_ticks": 733000,
+      "end_ticks": 742000
+    }
+  ]
+}

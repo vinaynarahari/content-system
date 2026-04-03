@@ -1,0 +1,34 @@
+{
+  "words": [
+    {
+      "text": "It",
+      "start_ticks": 420000,
+      "end_ticks": 422400
+    },
+    {
+      "text": "doesn't",
+      "start_ticks": 422400,
+      "end_ticks": 430800
+    },
+    {
+      "text": "know",
+      "start_ticks": 430800,
+      "end_ticks": 433800
+    },
+    {
+      "text": "it",
+      "start_ticks": 433800,
+      "end_ticks": 437400
+    },
+    {
+      "text": "already",
+      "start_ticks": 437400,
+      "end_ticks": 444000
+    },
+    {
+      "text": "worked.",
+      "start_ticks": 444000,
+      "end_ticks": 454200
+    }
+  ]
+}

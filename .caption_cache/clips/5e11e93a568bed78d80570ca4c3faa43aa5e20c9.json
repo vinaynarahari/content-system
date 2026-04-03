@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "It",
+      "start_ticks": 460000,
+      "end_ticks": 462400
+    },
+    {
+      "text": "doesn't",
+      "start_ticks": 462400,
+      "end_ticks": 469600
+    },
+    {
+      "text": "know",
+      "start_ticks": 469600,
+      "end_ticks": 472000
+    },
+    {
+      "text": "what",
+      "start_ticks": 472000,
+      "end_ticks": 476200
+    },
+    {
+      "text": "your",
+      "start_ticks": 476200,
+      "end_ticks": 479800
+    },
+    {
+      "text": "team",
+      "start_ticks": 479800,
+      "end_ticks": 486400
+    },
+    {
+      "text": "decided.",
+      "start_ticks": 486400,
+      "end_ticks": 494800
+    }
+  ]
+}

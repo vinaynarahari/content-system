@@ -1,0 +1,39 @@
+{
+  "words": [
+    {
+      "text": "It",
+      "start_ticks": 374000,
+      "end_ticks": 376400
+    },
+    {
+      "text": "doesn't",
+      "start_ticks": 376400,
+      "end_ticks": 385400
+    },
+    {
+      "text": "know",
+      "start_ticks": 385400,
+      "end_ticks": 389000
+    },
+    {
+      "text": "it",
+      "start_ticks": 389000,
+      "end_ticks": 392600
+    },
+    {
+      "text": "failed",
+      "start_ticks": 392600,
+      "end_ticks": 399200
+    },
+    {
+      "text": "last",
+      "start_ticks": 399200,
+      "end_ticks": 405800
+    },
+    {
+      "text": "time.",
+      "start_ticks": 405800,
+      "end_ticks": 414800
+    }
+  ]
+}

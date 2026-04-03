@@ -1,0 +1,1014 @@
+{
+  "words": [
+    {
+      "text": "Every",
+      "start_ticks": 0,
+      "end_ticks": 5400
+    },
+    {
+      "text": "AI",
+      "start_ticks": 5400,
+      "end_ticks": 15000
+    },
+    {
+      "text": "agent",
+      "start_ticks": 15000,
+      "end_ticks": 25200
+    },
+    {
+      "text": "tells",
+      "start_ticks": 25200,
+      "end_ticks": 34800
+    },
+    {
+      "text": "you",
+      "start_ticks": 34800,
+      "end_ticks": 39600
+    },
+    {
+      "text": "something,",
+      "start_ticks": 39600,
+      "end_ticks": 48000
+    },
+    {
+      "text": "not",
+      "start_ticks": 51600,
+      "end_ticks": 58200
+    },
+    {
+      "text": "just",
+      "start_ticks": 58200,
+      "end_ticks": 64200
+    },
+    {
+      "text": "by",
+      "start_ticks": 64200,
+      "end_ticks": 67800
+    },
+    {
+      "text": "what",
+      "start_ticks": 67800,
+      "end_ticks": 72600
+    },
+    {
+      "text": "it",
+      "start_ticks": 72600,
+      "end_ticks": 76200
+    },
+    {
+      "text": "says,",
+      "start_ticks": 76200,
+      "end_ticks": 87600
+    },
+    {
+      "text": "but",
+      "start_ticks": 88800,
+      "end_ticks": 94800
+    },
+    {
+      "text": "what",
+      "start_ticks": 94800,
+      "end_ticks": 99000
+    },
+    {
+      "text": "it",
+      "start_ticks": 99000,
+      "end_ticks": 102600
+    },
+    {
+      "text": "forgets,",
+      "start_ticks": 102600,
+      "end_ticks": 120600
+    },
+    {
+      "text": "what",
+      "start_ticks": 120600,
+      "end_ticks": 126000
+    },
+    {
+      "text": "it",
+      "start_ticks": 126000,
+      "end_ticks": 130200
+    },
+    {
+      "text": "repeats,",
+      "start_ticks": 130200,
+      "end_ticks": 141000
+    },
+    {
+      "text": "and",
+      "start_ticks": 145800,
+      "end_ticks": 148800
+    },
+    {
+      "text": "what",
+      "start_ticks": 148800,
+      "end_ticks": 153000
+    },
+    {
+      "text": "it",
+      "start_ticks": 153000,
+      "end_ticks": 156600
+    },
+    {
+      "text": "has",
+      "start_ticks": 156600,
+      "end_ticks": 162000
+    },
+    {
+      "text": "to",
+      "start_ticks": 162000,
+      "end_ticks": 169200
+    },
+    {
+      "text": "ask",
+      "start_ticks": 169200,
+      "end_ticks": 177000
+    },
+    {
+      "text": "again.",
+      "start_ticks": 177000,
+      "end_ticks": 190200
+    },
+    {
+      "text": "And",
+      "start_ticks": 196200,
+      "end_ticks": 199200
+    },
+    {
+      "text": "every",
+      "start_ticks": 199200,
+      "end_ticks": 208200
+    },
+    {
+      "text": "time",
+      "start_ticks": 208200,
+      "end_ticks": 216000
+    },
+    {
+      "text": "I",
+      "start_ticks": 216000,
+      "end_ticks": 222600
+    },
+    {
+      "text": "watched",
+      "start_ticks": 222600,
+      "end_ticks": 228600
+    },
+    {
+      "text": "teams",
+      "start_ticks": 228600,
+      "end_ticks": 239400
+    },
+    {
+      "text": "use",
+      "start_ticks": 239400,
+      "end_ticks": 246000
+    },
+    {
+      "text": "AI,",
+      "start_ticks": 246000,
+      "end_ticks": 255000
+    },
+    {
+      "text": "I",
+      "start_ticks": 262200,
+      "end_ticks": 268800
+    },
+    {
+      "text": "was",
+      "start_ticks": 268800,
+      "end_ticks": 274200
+    },
+    {
+      "text": "noticing",
+      "start_ticks": 274200,
+      "end_ticks": 286800
+    },
+    {
+      "text": "the",
+      "start_ticks": 286800,
+      "end_ticks": 291000
+    },
+    {
+      "text": "same",
+      "start_ticks": 291000,
+      "end_ticks": 297000
+    },
+    {
+      "text": "thing.",
+      "start_ticks": 297000,
+      "end_ticks": 307200
+    },
+    {
+      "text": "One",
+      "start_ticks": 311400,
+      "end_ticks": 318000
+    },
+    {
+      "text": "model",
+      "start_ticks": 318000,
+      "end_ticks": 328200
+    },
+    {
+      "text": "knows",
+      "start_ticks": 328200,
+      "end_ticks": 337200
+    },
+    {
+      "text": "one",
+      "start_ticks": 337200,
+      "end_ticks": 344400
+    },
+    {
+      "text": "thing,",
+      "start_ticks": 344400,
+      "end_ticks": 352800
+    },
+    {
+      "text": "the",
+      "start_ticks": 354000,
+      "end_ticks": 360000
+    },
+    {
+      "text": "other",
+      "start_ticks": 360000,
+      "end_ticks": 367200
+    },
+    {
+      "text": "one",
+      "start_ticks": 367200,
+      "end_ticks": 373800
+    },
+    {
+      "text": "knows",
+      "start_ticks": 373800,
+      "end_ticks": 379800
+    },
+    {
+      "text": "something",
+      "start_ticks": 379800,
+      "end_ticks": 386400
+    },
+    {
+      "text": "else,",
+      "start_ticks": 386400,
+      "end_ticks": 398400
+    },
+    {
+      "text": "the",
+      "start_ticks": 402600,
+      "end_ticks": 406800
+    },
+    {
+      "text": "next",
+      "start_ticks": 406800,
+      "end_ticks": 414600
+    },
+    {
+      "text": "one",
+      "start_ticks": 414600,
+      "end_ticks": 420000
+    },
+    {
+      "text": "starts",
+      "start_ticks": 420000,
+      "end_ticks": 429000
+    },
+    {
+      "text": "from",
+      "start_ticks": 429000,
+      "end_ticks": 435600
+    },
+    {
+      "text": "scratch,",
+      "start_ticks": 435600,
+      "end_ticks": 445800
+    },
+    {
+      "text": "and",
+      "start_ticks": 452400,
+      "end_ticks": 459600
+    },
+    {
+      "text": "nobody",
+      "start_ticks": 459600,
+      "end_ticks": 468600
+    },
+    {
+      "text": "remembers",
+      "start_ticks": 468600,
+      "end_ticks": 484800
+    },
+    {
+      "text": "what",
+      "start_ticks": 484800,
+      "end_ticks": 493200
+    },
+    {
+      "text": "already",
+      "start_ticks": 493200,
+      "end_ticks": 502200
+    },
+    {
+      "text": "happened.",
+      "start_ticks": 502200,
+      "end_ticks": 516000
+    },
+    {
+      "text": "And",
+      "start_ticks": 519600,
+      "end_ticks": 522600
+    },
+    {
+      "text": "the",
+      "start_ticks": 522600,
+      "end_ticks": 525600
+    },
+    {
+      "text": "more",
+      "start_ticks": 525600,
+      "end_ticks": 531600
+    },
+    {
+      "text": "I",
+      "start_ticks": 531600,
+      "end_ticks": 535800
+    },
+    {
+      "text": "paid",
+      "start_ticks": 535800,
+      "end_ticks": 541800
+    },
+    {
+      "text": "attention,",
+      "start_ticks": 541800,
+      "end_ticks": 553200
+    },
+    {
+      "text": "the",
+      "start_ticks": 558600,
+      "end_ticks": 562200
+    },
+    {
+      "text": "more",
+      "start_ticks": 562200,
+      "end_ticks": 567600
+    },
+    {
+      "text": "obvious",
+      "start_ticks": 567600,
+      "end_ticks": 581400
+    },
+    {
+      "text": "it",
+      "start_ticks": 581400,
+      "end_ticks": 586800
+    },
+    {
+      "text": "became.",
+      "start_ticks": 586800,
+      "end_ticks": 594000
+    },
+    {
+      "text": "The",
+      "start_ticks": 601800,
+      "end_ticks": 606000
+    },
+    {
+      "text": "problem",
+      "start_ticks": 606000,
+      "end_ticks": 615600
+    },
+    {
+      "text": "wasn't",
+      "start_ticks": 615600,
+      "end_ticks": 630000
+    },
+    {
+      "text": "the",
+      "start_ticks": 630000,
+      "end_ticks": 633600
+    },
+    {
+      "text": "models",
+      "start_ticks": 633600,
+      "end_ticks": 642600
+    },
+    {
+      "text": "themselves,",
+      "start_ticks": 642600,
+      "end_ticks": 649800
+    },
+    {
+      "text": "it",
+      "start_ticks": 660000,
+      "end_ticks": 663600
+    },
+    {
+      "text": "was",
+      "start_ticks": 663600,
+      "end_ticks": 667800
+    },
+    {
+      "text": "everything",
+      "start_ticks": 667800,
+      "end_ticks": 678000
+    },
+    {
+      "text": "between",
+      "start_ticks": 678000,
+      "end_ticks": 689400
+    },
+    {
+      "text": "them.",
+      "start_ticks": 689400,
+      "end_ticks": 700200
+    },
+    {
+      "text": "Because",
+      "start_ticks": 702000,
+      "end_ticks": 707400
+    },
+    {
+      "text": "the",
+      "start_ticks": 707400,
+      "end_ticks": 713400
+    },
+    {
+      "text": "future",
+      "start_ticks": 713400,
+      "end_ticks": 724200
+    },
+    {
+      "text": "was",
+      "start_ticks": 724200,
+      "end_ticks": 732600
+    },
+    {
+      "text": "never",
+      "start_ticks": 732600,
+      "end_ticks": 739200
+    },
+    {
+      "text": "going",
+      "start_ticks": 739200,
+      "end_ticks": 744600
+    },
+    {
+      "text": "to",
+      "start_ticks": 744600,
+      "end_ticks": 748200
+    },
+    {
+      "text": "be",
+      "start_ticks": 748200,
+      "end_ticks": 751800
+    },
+    {
+      "text": "one",
+      "start_ticks": 751800,
+      "end_ticks": 757800
+    },
+    {
+      "text": "tool.",
+      "start_ticks": 757800,
+      "end_ticks": 768600
+    },
+    {
+      "text": "It",
+      "start_ticks": 772800,
+      "end_ticks": 777000
+    },
+    {
+      "text": "was",
+      "start_ticks": 777000,
+      "end_ticks": 780000
+    },
+    {
+      "text": "always",
+      "start_ticks": 780000,
+      "end_ticks": 790800
+    },
+    {
+      "text": "going",
+      "start_ticks": 790800,
+      "end_ticks": 798600
+    },
+    {
+      "text": "to",
+      "start_ticks": 798600,
+      "end_ticks": 803400
+    },
+    {
+      "text": "be",
+      "start_ticks": 803400,
+      "end_ticks": 805800
+    },
+    {
+      "text": "humans,",
+      "start_ticks": 805800,
+      "end_ticks": 817800
+    },
+    {
+      "text": "agents,",
+      "start_ticks": 822600,
+      "end_ticks": 832200
+    },
+    {
+      "text": "and",
+      "start_ticks": 837000,
+      "end_ticks": 843600
+    },
+    {
+      "text": "models",
+      "start_ticks": 843600,
+      "end_ticks": 853800
+    },
+    {
+      "text": "working",
+      "start_ticks": 853800,
+      "end_ticks": 864000
+    },
+    {
+      "text": "together.",
+      "start_ticks": 864000,
+      "end_ticks": 876000
+    },
+    {
+      "text": "So",
+      "start_ticks": 876000,
+      "end_ticks": 889200
+    },
+    {
+      "text": "we",
+      "start_ticks": 889200,
+      "end_ticks": 896400
+    },
+    {
+      "text": "built",
+      "start_ticks": 896400,
+      "end_ticks": 906000
+    },
+    {
+      "text": "Matrix,",
+      "start_ticks": 906000,
+      "end_ticks": 919200
+    },
+    {
+      "text": "not",
+      "start_ticks": 930000,
+      "end_ticks": 939000
+    },
+    {
+      "text": "just",
+      "start_ticks": 939000,
+      "end_ticks": 947400
+    },
+    {
+      "text": "to",
+      "start_ticks": 947400,
+      "end_ticks": 952200
+    },
+    {
+      "text": "make",
+      "start_ticks": 952200,
+      "end_ticks": 957600
+    },
+    {
+      "text": "AI",
+      "start_ticks": 957600,
+      "end_ticks": 966000
+    },
+    {
+      "text": "tools",
+      "start_ticks": 966000,
+      "end_ticks": 975600
+    },
+    {
+      "text": "smarter,",
+      "start_ticks": 975600,
+      "end_ticks": 987000
+    },
+    {
+      "text": "but",
+      "start_ticks": 993000,
+      "end_ticks": 999000
+    },
+    {
+      "text": "to",
+      "start_ticks": 999000,
+      "end_ticks": 1002600
+    },
+    {
+      "text": "create",
+      "start_ticks": 1002600,
+      "end_ticks": 1009800
+    },
+    {
+      "text": "a",
+      "start_ticks": 1009800,
+      "end_ticks": 1012800
+    },
+    {
+      "text": "shared",
+      "start_ticks": 1012800,
+      "end_ticks": 1022400
+    },
+    {
+      "text": "layer",
+      "start_ticks": 1022400,
+      "end_ticks": 1028400
+    },
+    {
+      "text": "where",
+      "start_ticks": 1028400,
+      "end_ticks": 1039800
+    },
+    {
+      "text": "agents,",
+      "start_ticks": 1039800,
+      "end_ticks": 1054200
+    },
+    {
+      "text": "tools,",
+      "start_ticks": 1059000,
+      "end_ticks": 1066200
+    },
+    {
+      "text": "and",
+      "start_ticks": 1071000,
+      "end_ticks": 1077600
+    },
+    {
+      "text": "people",
+      "start_ticks": 1077600,
+      "end_ticks": 1089000
+    },
+    {
+      "text": "can",
+      "start_ticks": 1089000,
+      "end_ticks": 1098000
+    },
+    {
+      "text": "actually",
+      "start_ticks": 1098000,
+      "end_ticks": 1108200
+    },
+    {
+      "text": "build",
+      "start_ticks": 1108200,
+      "end_ticks": 1116000
+    },
+    {
+      "text": "together.",
+      "start_ticks": 1116000,
+      "end_ticks": 1126200
+    },
+    {
+      "text": "Because",
+      "start_ticks": 1132800,
+      "end_ticks": 1139400
+    },
+    {
+      "text": "contrary",
+      "start_ticks": 1139400,
+      "end_ticks": 1153200
+    },
+    {
+      "text": "to",
+      "start_ticks": 1153200,
+      "end_ticks": 1158000
+    },
+    {
+      "text": "what",
+      "start_ticks": 1158000,
+      "end_ticks": 1161600
+    },
+    {
+      "text": "everybody",
+      "start_ticks": 1161600,
+      "end_ticks": 1173600
+    },
+    {
+      "text": "is",
+      "start_ticks": 1173600,
+      "end_ticks": 1182000
+    },
+    {
+      "text": "trying",
+      "start_ticks": 1182000,
+      "end_ticks": 1187400
+    },
+    {
+      "text": "to",
+      "start_ticks": 1187400,
+      "end_ticks": 1192800
+    },
+    {
+      "text": "do,",
+      "start_ticks": 1192800,
+      "end_ticks": 1197600
+    },
+    {
+      "text": "the",
+      "start_ticks": 1201200,
+      "end_ticks": 1204800
+    },
+    {
+      "text": "best",
+      "start_ticks": 1204800,
+      "end_ticks": 1212000
+    },
+    {
+      "text": "teams",
+      "start_ticks": 1212000,
+      "end_ticks": 1221000
+    },
+    {
+      "text": "aren't",
+      "start_ticks": 1221000,
+      "end_ticks": 1234800
+    },
+    {
+      "text": "the",
+      "start_ticks": 1234800,
+      "end_ticks": 1235801
+    },
+    {
+      "text": "ones",
+      "start_ticks": 1235400,
+      "end_ticks": 1241400
+    },
+    {
+      "text": "with",
+      "start_ticks": 1241400,
+      "end_ticks": 1245000
+    },
+    {
+      "text": "the",
+      "start_ticks": 1245000,
+      "end_ticks": 1248000
+    },
+    {
+      "text": "most",
+      "start_ticks": 1248000,
+      "end_ticks": 1252800
+    },
+    {
+      "text": "agents.",
+      "start_ticks": 1252800,
+      "end_ticks": 1263600
+    },
+    {
+      "text": "They're",
+      "start_ticks": 1271400,
+      "end_ticks": 1280400
+    },
+    {
+      "text": "the",
+      "start_ticks": 1280400,
+      "end_ticks": 1283400
+    },
+    {
+      "text": "ones",
+      "start_ticks": 1283400,
+      "end_ticks": 1290600
+    },
+    {
+      "text": "where",
+      "start_ticks": 1290600,
+      "end_ticks": 1296000
+    },
+    {
+      "text": "humans",
+      "start_ticks": 1296000,
+      "end_ticks": 1303200
+    },
+    {
+      "text": "and",
+      "start_ticks": 1303200,
+      "end_ticks": 1314000
+    },
+    {
+      "text": "AI",
+      "start_ticks": 1314000,
+      "end_ticks": 1327800
+    },
+    {
+      "text": "move",
+      "start_ticks": 1327800,
+      "end_ticks": 1341000
+    },
+    {
+      "text": "together",
+      "start_ticks": 1341000,
+      "end_ticks": 1349400
+    },
+    {
+      "text": "with",
+      "start_ticks": 1349400,
+      "end_ticks": 1356000
+    },
+    {
+      "text": "the",
+      "start_ticks": 1356000,
+      "end_ticks": 1359000
+    },
+    {
+      "text": "same",
+      "start_ticks": 1359000,
+      "end_ticks": 1365000
+    },
+    {
+      "text": "context,",
+      "start_ticks": 1365000,
+      "end_ticks": 1378800
+    },
+    {
+      "text": "the",
+      "start_ticks": 1383000,
+      "end_ticks": 1386600
+    },
+    {
+      "text": "same",
+      "start_ticks": 1386600,
+      "end_ticks": 1395600
+    },
+    {
+      "text": "memory,",
+      "start_ticks": 1395600,
+      "end_ticks": 1405800
+    },
+    {
+      "text": "and",
+      "start_ticks": 1409400,
+      "end_ticks": 1416000
+    },
+    {
+      "text": "the",
+      "start_ticks": 1416000,
+      "end_ticks": 1421400
+    },
+    {
+      "text": "same",
+      "start_ticks": 1421400,
+      "end_ticks": 1428600
+    },
+    {
+      "text": "understanding.",
+      "start_ticks": 1428600,
+      "end_ticks": 1443600
+    },
+    {
+      "text": "And",
+      "start_ticks": 1452000,
+      "end_ticks": 1455600
+    },
+    {
+      "text": "this",
+      "start_ticks": 1455600,
+      "end_ticks": 1461600
+    },
+    {
+      "text": "is",
+      "start_ticks": 1461600,
+      "end_ticks": 1465200
+    },
+    {
+      "text": "exactly",
+      "start_ticks": 1465200,
+      "end_ticks": 1477800
+    },
+    {
+      "text": "what",
+      "start_ticks": 1477800,
+      "end_ticks": 1489800
+    },
+    {
+      "text": "Matrix",
+      "start_ticks": 1489800,
+      "end_ticks": 1498800
+    },
+    {
+      "text": "provides.",
+      "start_ticks": 1498800,
+      "end_ticks": 1510800
+    },
+    {
+      "text": "So",
+      "start_ticks": 1520400,
+      "end_ticks": 1525800
+    },
+    {
+      "text": "let",
+      "start_ticks": 1525800,
+      "end_ticks": 1530000
+    },
+    {
+      "text": "me",
+      "start_ticks": 1530000,
+      "end_ticks": 1534200
+    },
+    {
+      "text": "ask",
+      "start_ticks": 1534200,
+      "end_ticks": 1541400
+    },
+    {
+      "text": "you",
+      "start_ticks": 1541400,
+      "end_ticks": 1546200
+    },
+    {
+      "text": "something.",
+      "start_ticks": 1546200,
+      "end_ticks": 1554600
+    },
+    {
+      "text": "If",
+      "start_ticks": 1560000,
+      "end_ticks": 1567200
+    },
+    {
+      "text": "all",
+      "start_ticks": 1567200,
+      "end_ticks": 1574400
+    },
+    {
+      "text": "your",
+      "start_ticks": 1574400,
+      "end_ticks": 1579800
+    },
+    {
+      "text": "agents",
+      "start_ticks": 1579800,
+      "end_ticks": 1590600
+    },
+    {
+      "text": "are",
+      "start_ticks": 1590600,
+      "end_ticks": 1595400
+    },
+    {
+      "text": "operating",
+      "start_ticks": 1595400,
+      "end_ticks": 1606800
+    },
+    {
+      "text": "on",
+      "start_ticks": 1606800,
+      "end_ticks": 1612200
+    },
+    {
+      "text": "the",
+      "start_ticks": 1612200,
+      "end_ticks": 1613400
+    },
+    {
+      "text": "same",
+      "start_ticks": 1613400,
+      "end_ticks": 1618800
+    },
+    {
+      "text": "codebase,",
+      "start_ticks": 1618800,
+      "end_ticks": 1632600
+    },
+    {
+      "text": "why",
+      "start_ticks": 1637400,
+      "end_ticks": 1644000
+    },
+    {
+      "text": "are",
+      "start_ticks": 1644000,
+      "end_ticks": 1650600
+    },
+    {
+      "text": "they",
+      "start_ticks": 1650600,
+      "end_ticks": 1656000
+    },
+    {
+      "text": "still",
+      "start_ticks": 1656000,
+      "end_ticks": 1661400
+    },
+    {
+      "text": "working",
+      "start_ticks": 1661400,
+      "end_ticks": 1671000
+    },
+    {
+      "text": "like",
+      "start_ticks": 1671000,
+      "end_ticks": 1677000
+    },
+    {
+      "text": "strangers?",
+      "start_ticks": 1677000,
+      "end_ticks": 1685400
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+
+if [[ $# -lt 1 ]]; then
+  echo "Usage: caption <fcpxml-or-fcpxmld> [extra args...]" >&2
+  exit 1
+fi
+
+input="$1"
+shift
+
+if [[ "$input" == *.fcpxmld ]]; then
+  input="${input%/}/Info.fcpxml"
+fi
+
+has_model=0
+has_backend=0
+
+for arg in "$@"; do
+  case "$arg" in
+    --model|--model=*)
+      has_model=1
+      ;;
+    --backend|--backend=*)
+      has_backend=1
+      ;;
+  esac
+done
+
+cmd=(python3 "$SCRIPT_DIR/video_caption.py" "$input")
+
+if [[ $has_backend -eq 0 ]]; then
+  cmd+=(--backend auto)
+fi
+
+if [[ $has_model -eq 0 ]]; then
+  cmd+=(--model large-v3)
+fi
+
+cmd+=("$@")
+exec "${cmd[@]}"

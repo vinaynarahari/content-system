@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.11">
+  <resources>
+    <format height="1080" id="r1" colorSpace="1-1-1 (Rec. 709)" name="FFVideoFormatRateUndefined" width="1920" frameDuration="1/30s" />
+    <asset audioSources="1" format="r1" duration="2699/30s" id="r2" audioChannels="2" hasAudio="1" start="0s" name="IMG_7969_sample90" hasVideo="1">
+      <media-rep src="file:///Users/vinaynarahari/B-Roll/IMG_7969_sample90.MOV" kind="original-media" />
+    </asset>
+  </resources>
+  <library>
+    <event name="Auto-Editor Media Group">
+      <project name="IMG_7969_sample90">
+        <sequence tcStart="0s" format="r1" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip offset="0s" duration="2699/30s" tcFormat="NDF" start="0s" name="IMG_7969_sample90" ref="r2" />
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

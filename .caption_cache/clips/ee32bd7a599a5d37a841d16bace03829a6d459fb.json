@@ -1,0 +1,34 @@
+{
+  "words": [
+    {
+      "text": "So",
+      "start_ticks": 592000,
+      "end_ticks": 595600
+    },
+    {
+      "text": "even",
+      "start_ticks": 595600,
+      "end_ticks": 602200
+    },
+    {
+      "text": "when",
+      "start_ticks": 602200,
+      "end_ticks": 608800
+    },
+    {
+      "text": "it",
+      "start_ticks": 608800,
+      "end_ticks": 610600
+    },
+    {
+      "text": "sounds",
+      "start_ticks": 610600,
+      "end_ticks": 617800
+    },
+    {
+      "text": "smart,",
+      "start_ticks": 617800,
+      "end_ticks": 626800
+    }
+  ]
+}

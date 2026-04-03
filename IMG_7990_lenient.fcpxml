@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fcpxml version="1.11">
+  <resources>
+    <format height="1080" id="r1" colorSpace="1-1-1 (Rec. 709)" name="FFVideoFormatRateUndefined" width="1920" frameDuration="1/30s" />
+    <asset audioSources="1" format="r1" duration="11634/30s" id="r2" audioChannels="2" hasAudio="1" start="0s" name="IMG_7990" hasVideo="1">
+      <media-rep src="file:///Users/vinaynarahari/Downloads/IMG_7990.MOV" kind="original-media" />
+    </asset>
+  </resources>
+  <library>
+    <event name="Auto-Editor Media Group">
+      <project name="IMG_7990">
+        <sequence tcStart="0s" format="r1" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <asset-clip offset="0s" duration="198/30s" tcFormat="NDF" start="41/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="198/30s" duration="160/30s" tcFormat="NDF" start="359/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="358/30s" duration="90/30s" tcFormat="NDF" start="552/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="448/30s" duration="1015/30s" tcFormat="NDF" start="692/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="1463/30s" duration="561/30s" tcFormat="NDF" start="1748/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2024/30s" duration="111/30s" tcFormat="NDF" start="2453/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2135/30s" duration="48/30s" tcFormat="NDF" start="2766/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2183/30s" duration="41/30s" tcFormat="NDF" start="2892/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2224/30s" duration="51/30s" tcFormat="NDF" start="3033/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2275/30s" duration="41/30s" tcFormat="NDF" start="3420/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2316/30s" duration="79/30s" tcFormat="NDF" start="3869/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2395/30s" duration="325/30s" tcFormat="NDF" start="4007/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2720/30s" duration="131/30s" tcFormat="NDF" start="4392/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2851/30s" duration="123/30s" tcFormat="NDF" start="4725/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="2974/30s" duration="42/30s" tcFormat="NDF" start="5313/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="3016/30s" duration="41/30s" tcFormat="NDF" start="5427/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="3057/30s" duration="702/30s" tcFormat="NDF" start="5778/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="3759/30s" duration="324/30s" tcFormat="NDF" start="6519/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="4083/30s" duration="276/30s" tcFormat="NDF" start="7013/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="4359/30s" duration="627/30s" tcFormat="NDF" start="7359/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="4986/30s" duration="336/30s" tcFormat="NDF" start="8064/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="5322/30s" duration="420/30s" tcFormat="NDF" start="8577/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="5742/30s" duration="1359/30s" tcFormat="NDF" start="9066/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="7101/30s" duration="387/30s" tcFormat="NDF" start="10493/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="7488/30s" duration="79/30s" tcFormat="NDF" start="10976/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="7567/30s" duration="86/30s" tcFormat="NDF" start="11133/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="7653/30s" duration="629/30s" tcFormat="NDF" start="11388/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="8282/30s" duration="96/30s" tcFormat="NDF" start="12104/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="8378/30s" duration="96/30s" tcFormat="NDF" start="12237/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="8474/30s" duration="351/30s" tcFormat="NDF" start="12372/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="8825/30s" duration="405/30s" tcFormat="NDF" start="12756/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="9230/30s" duration="84/30s" tcFormat="NDF" start="13212/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="9314/30s" duration="101/30s" tcFormat="NDF" start="13368/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="9415/30s" duration="403/30s" tcFormat="NDF" start="14072/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="9818/30s" duration="618/30s" tcFormat="NDF" start="14565/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="10436/30s" duration="50/30s" tcFormat="NDF" start="15483/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="10486/30s" duration="336/30s" tcFormat="NDF" start="15987/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="10822/30s" duration="294/30s" tcFormat="NDF" start="16386/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="11116/30s" duration="58/30s" tcFormat="NDF" start="16811/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="11174/30s" duration="159/30s" tcFormat="NDF" start="16937/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="11333/30s" duration="62/30s" tcFormat="NDF" start="17136/30s" name="IMG_7990" ref="r2" />
+            <asset-clip offset="11395/30s" duration="239/30s" tcFormat="NDF" start="17442/30s" name="IMG_7990" ref="r2" />
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

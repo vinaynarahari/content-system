@@ -1,0 +1,237 @@
+{
+  "alex-hormozi": {
+    "display_name": "Alex Hormozi",
+    "research_status": "researched",
+    "platform_fit": "Direct-response business short form built around blunt hooks, one big problem, and a tactical payoff.",
+    "voice_traits": [
+      "Start with the claim, not the setup",
+      "Use blunt, second-person pressure",
+      "Keep one core idea per clip",
+      "Translate insight into a concrete business consequence",
+      "End with a sharp takeaway instead of a soft fade-out"
+    ],
+    "hook_patterns": [
+      "You're not getting [result] because of [hidden reason].",
+      "The problem isn't [obvious thing]. It's [deeper thing].",
+      "If I had to do [goal] again, I'd do this first.",
+      "Here's why [common behavior] keeps failing."
+    ],
+    "script_rules": [
+      "Front-load the problem in the first sentence",
+      "Use contrast words like but, instead, or actually to create tension",
+      "Name the hidden tax or cost of doing nothing",
+      "Land on mechanism plus payoff, not vague motivation"
+    ],
+    "avoid": [
+      "Long scene-setting intros",
+      "Abstract inspiration without an operational point",
+      "More than one major claim in 30 seconds"
+    ]
+  },
+  "short-form-founder": {
+    "display_name": "Short-Form Founder",
+    "research_status": "researched",
+    "platform_fit": "Founder-led Reels/TikToks that explain a market problem quickly, then reframe the product as infrastructure.",
+    "voice_traits": [
+      "Lead with an observed pain the audience already feels",
+      "Compress the explanation into a single memorable line",
+      "Use company-level stakes, not only personal productivity",
+      "Favor short spoken lines with clean caption breaks"
+    ],
+    "hook_patterns": [
+      "If your team uses AI every day, you're paying for this mistake already.",
+      "Everyone talks about smarter models. That's not the hard part.",
+      "This is the hidden tax behind [workflow].",
+      "Most teams think they need another tool. They need a missing layer."
+    ],
+    "script_rules": [
+      "Open on a felt pain or false belief",
+      "Introduce the product as the missing layer",
+      "Explain memory, governance, or compounding quality in plain English",
+      "Close on a strategic reframe"
+    ],
+    "avoid": [
+      "Jargon-heavy explanation",
+      "Long product lists",
+      "Trying to cram every feature into one clip"
+    ]
+  },
+  "story-operator": {
+    "display_name": "Story Operator",
+    "research_status": "researched",
+    "platform_fit": "Short-form storytelling that opens a loop, escalates tension, then resolves with a product or insight.",
+    "voice_traits": [
+      "Open with friction or surprise",
+      "Escalate one tension before solving it",
+      "Use a reveal line near the middle of the clip",
+      "Write for spoken cadence, not paragraph rhythm"
+    ],
+    "hook_patterns": [
+      "This looked like an AI problem. It wasn't.",
+      "We kept seeing the same failure over and over.",
+      "The weird part was [surprising detail].",
+      "Then we realized what was actually missing."
+    ],
+    "script_rules": [
+      "Hold one unanswered question through the middle",
+      "Move from symptom to cause to solution",
+      "Use a reveal sentence around the halfway point",
+      "Make the ending feel inevitable, not random"
+    ],
+    "avoid": [
+      "Opening with the product name before the pain",
+      "Flat exposition",
+      "Explaining the whole architecture"
+    ]
+  },
+  "leila-hormozi": {
+    "display_name": "Leila Hormozi",
+    "research_status": "researched",
+    "platform_fit": "Operator-first short form built around management pain, founder dependency, and system-level fixes.",
+    "voice_traits": [
+      "Open on an operator pain the audience already feels",
+      "Shift quickly from blame to standards, systems, or structure",
+      "Sound like a working CEO, not a motivational speaker",
+      "Use compact business truths that can stand alone as captions",
+      "Close on a principle that feels durable"
+    ],
+    "hook_patterns": [
+      "Your team is not the problem. Your system is.",
+      "If you have to say it twice, you don't have a process.",
+      "Most founders don't need more talent. They need clearer standards.",
+      "Here's why smart teams still move slowly."
+    ],
+    "script_rules": [
+      "Name the operator pain in the first line",
+      "Translate the pain into a systems problem",
+      "Use one clear management principle as the reveal",
+      "End on the business implication, not vague encouragement"
+    ],
+    "avoid": [
+      "Soft inspirational openings",
+      "Turning every point into a personal anecdote",
+      "Overexplaining before the reveal"
+    ]
+  },
+  "codie-sanchez": {
+    "display_name": "Codie Sanchez",
+    "research_status": "researched",
+    "platform_fit": "Contrarian business short form that frames overlooked opportunities, hidden costs, and ownership-level upside.",
+    "voice_traits": [
+      "Use a contrarian angle early",
+      "Make the audience feel like they are missing an overlooked asset",
+      "Tie the idea to money, leverage, or ownership",
+      "Keep the language punchy and anti-corporate",
+      "Favor sharp, memorable maxims"
+    ],
+    "hook_patterns": [
+      "The boring answer is usually the profitable one.",
+      "Everyone is chasing the sexy solution and missing the real asset.",
+      "This is the hidden tax most founders never calculate.",
+      "If you don't choose your hard, your hard will choose you."
+    ],
+    "script_rules": [
+      "Use a contrarian opening, not a neutral setup",
+      "Make the hidden cost feel concrete",
+      "Reframe the product as leverage, not just convenience",
+      "End on ownership, scale, or compounding upside"
+    ],
+    "avoid": [
+      "Academic explanation",
+      "Feature dumping",
+      "Corporate-sounding language"
+    ]
+  },
+  "simon-squibb": {
+    "display_name": "Simon Squibb",
+    "research_status": "researched",
+    "platform_fit": "Human-first storytelling built around empathy, aspiration, and a clean reveal that gives the audience permission to act.",
+    "voice_traits": [
+      "Open with a human tension or dream",
+      "Use simpler language than hard-nosed business creators",
+      "Make the middle feel like a reveal, not a lecture",
+      "Keep the tone generous and encouraging",
+      "Aim for shareable emotional clarity"
+    ],
+    "hook_patterns": [
+      "Most people are not lazy. They're just stuck.",
+      "The hardest part isn't starting. It's believing the path is real.",
+      "This looked like a tech problem, but it was really a people problem.",
+      "Here's what nobody tells you before you build."
+    ],
+    "script_rules": [
+      "Open with a human truth before the mechanism",
+      "Keep one open loop through the middle",
+      "Use the reveal to lower fear or confusion",
+      "Close with a line that feels hopeful without getting vague"
+    ],
+    "avoid": [
+      "Aggressive direct-response tone",
+      "Too much jargon",
+      "Crowding the script with too many claims"
+    ]
+  },
+  "gary-vaynerchuk": {
+    "display_name": "Gary Vaynerchuk",
+    "research_status": "researched",
+    "platform_fit": "Opinion-first short form that sounds documented, direct, and native to social rather than polished like an ad.",
+    "voice_traits": [
+      "Lead with a blunt point of view",
+      "Sound conversational and recorded-in-the-moment",
+      "Favor accessible examples over abstract theory",
+      "Treat micro-content as one clear takeaway, not a whole essay",
+      "Keep the energy up without sounding overproduced"
+    ],
+    "hook_patterns": [
+      "People are still underestimating this.",
+      "You're overcomplicating the thing that actually matters.",
+      "The mistake is thinking content has to be polished first.",
+      "Most brands are talking. Very few are actually communicating."
+    ],
+    "script_rules": [
+      "Open on the point of view, not the context",
+      "Use one example or analogy to make it stick",
+      "Write like a native social clip, not a keynote",
+      "End with a practical reframe the audience can repeat"
+    ],
+    "avoid": [
+      "Boardroom language",
+      "Too much polish in the copy",
+      "Trying to sound inspirational instead of useful"
+    ]
+  },
+  "npc-faizan": {
+    "display_name": "NPC Faizan",
+    "research_status": "needs_examples",
+    "platform_fit": "Placeholder profile. Add example transcripts or URLs to lock this voice down accurately.",
+    "voice_traits": [],
+    "hook_patterns": [],
+    "script_rules": [],
+    "avoid": []
+  },
+  "cheetah-rajan": {
+    "display_name": "Cheetah Rajan",
+    "research_status": "needs_examples",
+    "platform_fit": "Placeholder profile. Add example transcripts or URLs to lock this voice down accurately.",
+    "voice_traits": [],
+    "hook_patterns": [],
+    "script_rules": [],
+    "avoid": []
+  },
+  "chida-rajan": {
+    "display_name": "Chida Rajan",
+    "research_status": "reference_only",
+    "platform_fit": "Useful founder-brand reference, but not a default fit for tightly compressed 20-45 second Matrix scripts because the storytelling tends to breathe longer.",
+    "voice_traits": [
+      "Personal creator-business packaging",
+      "Journey-led founder positioning",
+      "Educational business creator framing"
+    ],
+    "hook_patterns": [],
+    "script_rules": [],
+    "avoid": [
+      "Using this as the default voice for high-density Matrix pitches",
+      "Letting the setup eat too much of the runtime"
+    ]
+  }
+}

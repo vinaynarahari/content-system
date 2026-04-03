@@ -1,0 +1,1475 @@
+{
+  "match_count": 69,
+  "matches": [
+    {
+      "final_title_index": 1,
+      "final_text": "EVERY AI AGENT",
+      "final_offset_seconds": 0.0,
+      "final_duration_seconds": 0.834,
+      "source_title_index": 73,
+      "source_text": "EVERY AI AGENT",
+      "source_offset_seconds": 80.48,
+      "source_duration_seconds": 1.235,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 2,
+      "final_text": "TELLS YOU SOMETHING,",
+      "final_offset_seconds": 0.734,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 74,
+      "source_text": "TELLS YOU SOMETHING,",
+      "source_offset_seconds": 81.715,
+      "source_duration_seconds": 0.701,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 3,
+      "final_text": "NOT JUST BY",
+      "final_offset_seconds": 1.602,
+      "final_duration_seconds": 0.667,
+      "source_title_index": 75,
+      "source_text": "NOT JUST BY",
+      "source_offset_seconds": 82.549,
+      "source_duration_seconds": 1.235,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 4,
+      "final_text": "WHAT IT SAYS,",
+      "final_offset_seconds": 2.135,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 76,
+      "source_text": "WHAT IT SAYS,",
+      "source_offset_seconds": 83.784,
+      "source_duration_seconds": 0.567,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 5,
+      "final_text": "BUT WHAT IT",
+      "final_offset_seconds": 2.836,
+      "final_duration_seconds": 0.567,
+      "source_title_index": 77,
+      "source_text": "BUT WHAT IT",
+      "source_offset_seconds": 84.484,
+      "source_duration_seconds": 0.934,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 6,
+      "final_text": "FORGETS, WHAT IT",
+      "final_offset_seconds": 3.303,
+      "final_duration_seconds": 1.034,
+      "source_title_index": 78,
+      "source_text": "FORGETS, WHAT IT",
+      "source_offset_seconds": 85.419,
+      "source_duration_seconds": 1.168,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 7,
+      "final_text": "REPEATS, AND WHAT",
+      "final_offset_seconds": 4.204,
+      "final_duration_seconds": 0.901,
+      "source_title_index": 79,
+      "source_text": "REPEATS AND WHAT",
+      "source_offset_seconds": 86.586,
+      "source_duration_seconds": 1.201,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 8,
+      "final_text": "IT HAS TO",
+      "final_offset_seconds": 4.972,
+      "final_duration_seconds": 0.667,
+      "source_title_index": 80,
+      "source_text": "IT HAS TO",
+      "source_offset_seconds": 87.788,
+      "source_duration_seconds": 0.5,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 9,
+      "final_text": "ASK AGAIN.",
+      "final_offset_seconds": 5.506,
+      "final_duration_seconds": 0.834,
+      "source_title_index": 142,
+      "source_text": "WAS AND",
+      "source_offset_seconds": 157.224,
+      "source_duration_seconds": 1.401,
+      "score": 0.625
+    },
+    {
+      "final_title_index": 10,
+      "final_text": "AND EVERY TIME",
+      "final_offset_seconds": 6.406,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 144,
+      "source_text": "EVERY TIME I",
+      "source_offset_seconds": 160.927,
+      "source_duration_seconds": 0.734,
+      "score": 0.769
+    },
+    {
+      "final_title_index": 11,
+      "final_text": "I WATCHED TEAMS",
+      "final_offset_seconds": 7.074,
+      "final_duration_seconds": 0.901,
+      "source_title_index": 145,
+      "source_text": "WATCHED TEAMS USE",
+      "source_offset_seconds": 161.662,
+      "source_duration_seconds": 0.801,
+      "score": 0.812
+    },
+    {
+      "final_title_index": 12,
+      "final_text": "USE AI, I",
+      "final_offset_seconds": 7.875,
+      "final_duration_seconds": 1.101,
+      "source_title_index": 146,
+      "source_text": "AI I",
+      "source_offset_seconds": 162.462,
+      "source_duration_seconds": 1.168,
+      "score": 0.667
+    },
+    {
+      "final_title_index": 13,
+      "final_text": "WAS NOTICING THE",
+      "final_offset_seconds": 8.842,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 147,
+      "source_text": "WAS NOTICING THE",
+      "source_offset_seconds": 165.732,
+      "source_duration_seconds": 1.101,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 14,
+      "final_text": "SAME THING.",
+      "final_offset_seconds": 9.576,
+      "final_duration_seconds": 0.667,
+      "source_title_index": 148,
+      "source_text": "SAME THING I",
+      "source_offset_seconds": 166.833,
+      "source_duration_seconds": 1.768,
+      "score": 0.909
+    },
+    {
+      "final_title_index": 15,
+      "final_text": "ONE MODEL KNOWS",
+      "final_offset_seconds": 10.244,
+      "final_duration_seconds": 1.001,
+      "source_title_index": 156,
+      "source_text": "MODEL KNOWS ONE",
+      "source_offset_seconds": 180.747,
+      "source_duration_seconds": 0.767,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 16,
+      "final_text": "ONE THING, THE",
+      "final_offset_seconds": 11.111,
+      "final_duration_seconds": 0.901,
+      "source_title_index": 160,
+      "source_text": "ONE THING THE",
+      "source_offset_seconds": 186.853,
+      "source_duration_seconds": 1.268,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 17,
+      "final_text": "OTHER ONE KNOWS",
+      "final_offset_seconds": 11.879,
+      "final_duration_seconds": 0.767,
+      "source_title_index": 161,
+      "source_text": "OTHER ONE KNOWS",
+      "source_offset_seconds": 188.121,
+      "source_duration_seconds": 0.634,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 18,
+      "final_text": "SOMETHING ELSE, THE",
+      "final_offset_seconds": 12.546,
+      "final_duration_seconds": 1.001,
+      "source_title_index": 162,
+      "source_text": "SOMETHING ELSE THE",
+      "source_offset_seconds": 188.755,
+      "source_duration_seconds": 1.535,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 19,
+      "final_text": "NEXT ONE STARTS",
+      "final_offset_seconds": 13.447,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 163,
+      "source_text": "NEXT ONE STARTS",
+      "source_offset_seconds": 190.29,
+      "source_duration_seconds": 0.734,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 20,
+      "final_text": "FROM SCRATCH, AND",
+      "final_offset_seconds": 14.181,
+      "final_duration_seconds": 1.134,
+      "source_title_index": 164,
+      "source_text": "FROM SCRATCH AND",
+      "source_offset_seconds": 191.024,
+      "source_duration_seconds": 1.635,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 21,
+      "final_text": "NOBODY REMEMBERS WHAT",
+      "final_offset_seconds": 15.215,
+      "final_duration_seconds": 1.235,
+      "source_title_index": 165,
+      "source_text": "AND NOBODY REMEMBERS",
+      "source_offset_seconds": 195.295,
+      "source_duration_seconds": 0.834,
+      "score": 0.78
+    },
+    {
+      "final_title_index": 22,
+      "final_text": "ALREADY HAPPENED.",
+      "final_offset_seconds": 16.316,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 166,
+      "source_text": "WHAT HAPPENED.",
+      "source_offset_seconds": 196.129,
+      "source_duration_seconds": 0.667,
+      "score": 0.69
+    },
+    {
+      "final_title_index": 23,
+      "final_text": "AND THE MORE",
+      "final_offset_seconds": 17.184,
+      "final_duration_seconds": 0.534,
+      "source_title_index": 167,
+      "source_text": "THE MORE",
+      "source_offset_seconds": 217.784,
+      "source_duration_seconds": 1.268,
+      "score": 0.8
+    },
+    {
+      "final_title_index": 24,
+      "final_text": "I PAID ATTENTION,",
+      "final_offset_seconds": 17.584,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 168,
+      "source_text": "I PAID ATTENTION,",
+      "source_offset_seconds": 220.954,
+      "source_duration_seconds": 0.767,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 25,
+      "final_text": "THE MORE OBVIOUS",
+      "final_offset_seconds": 18.485,
+      "final_duration_seconds": 0.901,
+      "source_title_index": 169,
+      "source_text": "THE MORE OBVIOUS",
+      "source_offset_seconds": 221.988,
+      "source_duration_seconds": 1.301,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 26,
+      "final_text": "IT BECAME.",
+      "final_offset_seconds": 19.253,
+      "final_duration_seconds": 0.534,
+      "source_title_index": 170,
+      "source_text": "IT BECAME.",
+      "source_offset_seconds": 223.29,
+      "source_duration_seconds": 0.367,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 27,
+      "final_text": "THE PROBLEM WASN'T",
+      "final_offset_seconds": 19.953,
+      "final_duration_seconds": 1.034,
+      "source_title_index": 172,
+      "source_text": "PROBLEM WASN'T THE",
+      "source_offset_seconds": 225.892,
+      "source_duration_seconds": 0.934,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 28,
+      "final_text": "THE MODELS THEMSELVES,",
+      "final_offset_seconds": 20.888,
+      "final_duration_seconds": 0.767,
+      "source_title_index": 173,
+      "source_text": "MODELS THEMSELVES.",
+      "source_offset_seconds": 226.827,
+      "source_duration_seconds": 0.534,
+      "score": 0.895
+    },
+    {
+      "final_title_index": 29,
+      "final_text": "IT WAS EVERYTHING",
+      "final_offset_seconds": 21.889,
+      "final_duration_seconds": 0.701,
+      "source_title_index": 174,
+      "source_text": "IT WAS EVERYTHING",
+      "source_offset_seconds": 227.36,
+      "source_duration_seconds": 1.435,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 30,
+      "final_text": "BETWEEN THEM.",
+      "final_offset_seconds": 22.489,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 175,
+      "source_text": "BETWEEN THEM.",
+      "source_offset_seconds": 228.795,
+      "source_duration_seconds": 0.767,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 31,
+      "final_text": "BECAUSE THE FUTURE",
+      "final_offset_seconds": 23.29,
+      "final_duration_seconds": 0.834,
+      "source_title_index": 176,
+      "source_text": "BECAUSE THE FUTURE",
+      "source_offset_seconds": 233.3,
+      "source_duration_seconds": 1.134,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 32,
+      "final_text": "WAS NEVER GOING",
+      "final_offset_seconds": 24.024,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 177,
+      "source_text": "WAS NEVER GOING",
+      "source_offset_seconds": 234.434,
+      "source_duration_seconds": 0.634,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 33,
+      "final_text": "TO BE ONE",
+      "final_offset_seconds": 24.691,
+      "final_duration_seconds": 0.567,
+      "source_title_index": 178,
+      "source_text": "TO BE ONE",
+      "source_offset_seconds": 235.068,
+      "source_duration_seconds": 0.5,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 34,
+      "final_text": "TOOL.",
+      "final_offset_seconds": 25.125,
+      "final_duration_seconds": 0.5,
+      "source_title_index": 179,
+      "source_text": "TOOL.",
+      "source_offset_seconds": 235.569,
+      "source_duration_seconds": 0.4,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 35,
+      "final_text": "IT WAS ALWAYS",
+      "final_offset_seconds": 25.626,
+      "final_duration_seconds": 0.734,
+      "source_title_index": 184,
+      "source_text": "IT WAS ALWAYS",
+      "source_offset_seconds": 243.009,
+      "source_duration_seconds": 1.101,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 36,
+      "final_text": "GOING TO BE",
+      "final_offset_seconds": 26.226,
+      "final_duration_seconds": 0.634,
+      "source_title_index": 185,
+      "source_text": "GOING TO BE",
+      "source_offset_seconds": 244.111,
+      "source_duration_seconds": 0.5,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 37,
+      "final_text": "HUMANS, AGENTS, AND",
+      "final_offset_seconds": 26.727,
+      "final_duration_seconds": 1.401,
+      "source_title_index": 186,
+      "source_text": "HUMANS, AGENTS, AND",
+      "source_offset_seconds": 244.611,
+      "source_duration_seconds": 1.602,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 38,
+      "final_text": "MODELS WORKING TOGETHER.",
+      "final_offset_seconds": 27.995,
+      "final_duration_seconds": 1.201,
+      "source_title_index": 187,
+      "source_text": "MODELS WORKING TOGETHER.",
+      "source_offset_seconds": 246.213,
+      "source_duration_seconds": 1.235,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 39,
+      "final_text": "SO WE BUILT",
+      "final_offset_seconds": 29.096,
+      "final_duration_seconds": 1.101,
+      "source_title_index": 188,
+      "source_text": "SO WE BUILT",
+      "source_offset_seconds": 248.381,
+      "source_duration_seconds": 1.068,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 40,
+      "final_text": "MATRIX, NOT JUST",
+      "final_offset_seconds": 30.063,
+      "final_duration_seconds": 1.502,
+      "source_title_index": 191,
+      "source_text": "MATRIX FOR THAT",
+      "source_offset_seconds": 252.586,
+      "source_duration_seconds": 0.934,
+      "score": 0.667
+    },
+    {
+      "final_title_index": 41,
+      "final_text": "TO MAKE AI",
+      "final_offset_seconds": 31.465,
+      "final_duration_seconds": 0.734,
+      "source_title_index": 203,
+      "source_text": "MAKE AI TOOLS",
+      "source_offset_seconds": 268.468,
+      "source_duration_seconds": 0.767,
+      "score": 0.609
+    },
+    {
+      "final_title_index": 42,
+      "final_text": "TOOLS SMARTER, BUT",
+      "final_offset_seconds": 32.065,
+      "final_duration_seconds": 1.235,
+      "source_title_index": 204,
+      "source_text": "SMARTER.",
+      "source_offset_seconds": 269.236,
+      "source_duration_seconds": 0.467,
+      "score": 0.583
+    },
+    {
+      "final_title_index": 43,
+      "final_text": "TO CREATE A",
+      "final_offset_seconds": 33.166,
+      "final_duration_seconds": 0.601,
+      "source_title_index": 206,
+      "source_text": "MAKE AI TOOLS",
+      "source_offset_seconds": 272.172,
+      "source_duration_seconds": 0.767,
+      "score": 0.333
+    },
+    {
+      "final_title_index": 44,
+      "final_text": "SHARED LAYER WHERE",
+      "final_offset_seconds": 33.634,
+      "final_duration_seconds": 1.034,
+      "source_title_index": 215,
+      "source_text": "A SHARED LAYER",
+      "source_offset_seconds": 283.517,
+      "source_duration_seconds": 1.301,
+      "score": 0.75
+    },
+    {
+      "final_title_index": 45,
+      "final_text": "AGENTS, TOOLS, AND",
+      "final_offset_seconds": 34.535,
+      "final_duration_seconds": 1.401,
+      "source_title_index": 216,
+      "source_text": "WHERE AGENTS, TOOLS,",
+      "source_offset_seconds": 284.818,
+      "source_duration_seconds": 1.502,
+      "score": 0.706
+    },
+    {
+      "final_title_index": 46,
+      "final_text": "PEOPLE CAN ACTUALLY",
+      "final_offset_seconds": 35.802,
+      "final_duration_seconds": 1.134,
+      "source_title_index": 220,
+      "source_text": "CAN ACTUALLY BUILD",
+      "source_offset_seconds": 299.366,
+      "source_duration_seconds": 1.034,
+      "score": 0.649
+    },
+    {
+      "final_title_index": 47,
+      "final_text": "BUILD TOGETHER.",
+      "final_offset_seconds": 36.803,
+      "final_duration_seconds": 0.734,
+      "source_title_index": 221,
+      "source_text": "TOGETHER BECAUSE",
+      "source_offset_seconds": 300.4,
+      "source_duration_seconds": 1.468,
+      "score": 0.533
+    },
+    {
+      "final_title_index": 48,
+      "final_text": "BECAUSE CONTRARY TO",
+      "final_offset_seconds": 37.638,
+      "final_duration_seconds": 0.968,
+      "source_title_index": 230,
+      "source_text": "BECAUSE CONTRARY TO",
+      "source_offset_seconds": 313.079,
+      "source_duration_seconds": 1.401,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 49,
+      "final_text": "WHAT EVERYBODY IS",
+      "final_offset_seconds": 38.472,
+      "final_duration_seconds": 0.934,
+      "source_title_index": 238,
+      "source_text": "WHAT EVERYBODY IS",
+      "source_offset_seconds": 321.388,
+      "source_duration_seconds": 0.834,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 50,
+      "final_text": "TRYING TO DO,",
+      "final_offset_seconds": 39.273,
+      "final_duration_seconds": 0.634,
+      "source_title_index": 243,
+      "source_text": "TRYING TO DO",
+      "source_offset_seconds": 328.228,
+      "source_duration_seconds": 0.5,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 51,
+      "final_text": "THE BEST TEAMS",
+      "final_offset_seconds": 39.907,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 244,
+      "source_text": "THE BEST TEAMS",
+      "source_offset_seconds": 328.728,
+      "source_duration_seconds": 1.201,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 52,
+      "final_text": "AREN'T THE ONES",
+      "final_offset_seconds": 40.574,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 245,
+      "source_text": "AREN'T THE",
+      "source_offset_seconds": 329.93,
+      "source_duration_seconds": 0.467,
+      "score": 0.8
+    },
+    {
+      "final_title_index": 55,
+      "final_text": "THEY'RE THE ONES",
+      "final_offset_seconds": 42.276,
+      "final_duration_seconds": 0.734,
+      "source_title_index": 246,
+      "source_text": "THE ONES WHERE",
+      "source_offset_seconds": 331.464,
+      "source_duration_seconds": 0.5,
+      "score": 0.533
+    },
+    {
+      "final_title_index": 56,
+      "final_text": "WHERE HUMANS AND",
+      "final_offset_seconds": 42.91,
+      "final_duration_seconds": 0.901,
+      "source_title_index": 247,
+      "source_text": "HUMANS AND AI",
+      "source_offset_seconds": 331.965,
+      "source_duration_seconds": 1.201,
+      "score": 0.69
+    },
+    {
+      "final_title_index": 57,
+      "final_text": "AI MOVE TOGETHER",
+      "final_offset_seconds": 43.677,
+      "final_duration_seconds": 1.301,
+      "source_title_index": 248,
+      "source_text": "MOVE TOGETHER WITH",
+      "source_offset_seconds": 333.166,
+      "source_duration_seconds": 1.235,
+      "score": 0.765
+    },
+    {
+      "final_title_index": 59,
+      "final_text": "CONTEXT, THE SAME",
+      "final_offset_seconds": 45.379,
+      "final_duration_seconds": 1.134,
+      "source_title_index": 249,
+      "source_text": "THE SAME CONTEXT",
+      "source_offset_seconds": 334.401,
+      "source_duration_seconds": 0.767,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 60,
+      "final_text": "MEMORY, AND THE",
+      "final_offset_seconds": 46.413,
+      "final_duration_seconds": 0.968,
+      "source_title_index": 251,
+      "source_text": "AND THE SAME",
+      "source_offset_seconds": 336.303,
+      "source_duration_seconds": 1.034,
+      "score": 0.538
+    },
+    {
+      "final_title_index": 61,
+      "final_text": "SAME UNDERSTANDING.",
+      "final_offset_seconds": 47.247,
+      "final_duration_seconds": 0.868,
+      "source_title_index": 252,
+      "source_text": "UNDERSTANDING AND",
+      "source_offset_seconds": 337.337,
+      "source_duration_seconds": 1.502,
+      "score": 0.743
+    },
+    {
+      "final_title_index": 62,
+      "final_text": "AND THIS IS",
+      "final_offset_seconds": 48.282,
+      "final_duration_seconds": 0.567,
+      "source_title_index": 253,
+      "source_text": "THIS IS EXACTLY",
+      "source_offset_seconds": 340.44,
+      "source_duration_seconds": 0.767,
+      "score": 0.538
+    },
+    {
+      "final_title_index": 63,
+      "final_text": "EXACTLY WHAT MATRIX",
+      "final_offset_seconds": 48.715,
+      "final_duration_seconds": 1.235,
+      "source_title_index": 254,
+      "source_text": "WHAT MATRIX PROVIDES",
+      "source_offset_seconds": 341.208,
+      "source_duration_seconds": 1.101,
+      "score": 0.564
+    },
+    {
+      "final_title_index": 64,
+      "final_text": "PROVIDES.",
+      "final_offset_seconds": 49.85,
+      "final_duration_seconds": 0.5,
+      "source_title_index": 257,
+      "source_text": "WHAT MATRIX PROVIDES",
+      "source_offset_seconds": 345.979,
+      "source_duration_seconds": 1.201,
+      "score": 0.571
+    },
+    {
+      "final_title_index": 65,
+      "final_text": "SO LET ME",
+      "final_offset_seconds": 50.55,
+      "final_duration_seconds": 0.601,
+      "source_title_index": 262,
+      "source_text": "LET ME ASK",
+      "source_offset_seconds": 355.989,
+      "source_duration_seconds": 0.567,
+      "score": 0.632
+    },
+    {
+      "final_title_index": 66,
+      "final_text": "ASK YOU SOMETHING.",
+      "final_offset_seconds": 51.018,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 263,
+      "source_text": "YOU SOMETHING IF",
+      "source_offset_seconds": 356.556,
+      "source_duration_seconds": 1.435,
+      "score": 0.788
+    },
+    {
+      "final_title_index": 67,
+      "final_text": "IF ALL YOUR",
+      "final_offset_seconds": 51.885,
+      "final_duration_seconds": 0.767,
+      "source_title_index": 288,
+      "source_text": "IF ALL YOUR",
+      "source_offset_seconds": 391.591,
+      "source_duration_seconds": 1.401,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 68,
+      "final_text": "AGENTS ARE OPERATING",
+      "final_offset_seconds": 52.552,
+      "final_duration_seconds": 1.001,
+      "source_title_index": 289,
+      "source_text": "AGENTS ARE OPERATING",
+      "source_offset_seconds": 392.993,
+      "source_duration_seconds": 0.834,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 69,
+      "final_text": "ON THE SAME",
+      "final_offset_seconds": 53.453,
+      "final_duration_seconds": 0.5,
+      "source_title_index": 290,
+      "source_text": "ON THE SAME",
+      "source_offset_seconds": 393.827,
+      "source_duration_seconds": 0.4,
+      "score": 1.0
+    },
+    {
+      "final_title_index": 70,
+      "final_text": "CODEBASE, WHY ARE",
+      "final_offset_seconds": 53.854,
+      "final_duration_seconds": 1.168,
+      "source_title_index": 305,
+      "source_text": "NO, WHY ARE",
+      "source_offset_seconds": 412.045,
+      "source_duration_seconds": 0.701,
+      "score": 0.692
+    },
+    {
+      "final_title_index": 71,
+      "final_text": "THEY STILL WORKING",
+      "final_offset_seconds": 54.888,
+      "final_duration_seconds": 0.801,
+      "source_title_index": 306,
+      "source_text": "THEY WORKING LIKE",
+      "source_offset_seconds": 412.746,
+      "source_duration_seconds": 0.467,
+      "score": 0.686
+    },
+    {
+      "final_title_index": 72,
+      "final_text": "LIKE STRANGERS?",
+      "final_offset_seconds": 55.589,
+      "final_duration_seconds": 0.601,
+      "source_title_index": 314,
+      "source_text": "LIKE STRANGERS?",
+      "source_offset_seconds": 421.488,
+      "source_duration_seconds": 0.5,
+      "score": 1.0
+    }
+  ],
+  "merged_windows": [
+    {
+      "window_index": 1,
+      "take_select_start_seconds": 80.36,
+      "take_select_end_seconds": 88.468,
+      "duration_seconds": 8.108,
+      "final_title_indices": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "source_title_indices": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80
+      ]
+    },
+    {
+      "window_index": 2,
+      "take_select_start_seconds": 157.104,
+      "take_select_end_seconds": 158.805,
+      "duration_seconds": 1.701,
+      "final_title_indices": [
+        9
+      ],
+      "source_title_indices": [
+        142
+      ]
+    },
+    {
+      "window_index": 3,
+      "take_select_start_seconds": 160.807,
+      "take_select_end_seconds": 163.81,
+      "duration_seconds": 3.003,
+      "final_title_indices": [
+        10,
+        11,
+        12
+      ],
+      "source_title_indices": [
+        144,
+        145,
+        146
+      ]
+    },
+    {
+      "window_index": 4,
+      "take_select_start_seconds": 165.612,
+      "take_select_end_seconds": 168.782,
+      "duration_seconds": 3.17,
+      "final_title_indices": [
+        13,
+        14
+      ],
+      "source_title_indices": [
+        147,
+        148
+      ]
+    },
+    {
+      "window_index": 5,
+      "take_select_start_seconds": 180.627,
+      "take_select_end_seconds": 181.695,
+      "duration_seconds": 1.067,
+      "final_title_indices": [
+        15
+      ],
+      "source_title_indices": [
+        156
+      ]
+    },
+    {
+      "window_index": 6,
+      "take_select_start_seconds": 186.733,
+      "take_select_end_seconds": 192.839,
+      "duration_seconds": 6.106,
+      "final_title_indices": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ],
+      "source_title_indices": [
+        160,
+        161,
+        162,
+        163,
+        164
+      ]
+    },
+    {
+      "window_index": 7,
+      "take_select_start_seconds": 195.175,
+      "take_select_end_seconds": 196.977,
+      "duration_seconds": 1.802,
+      "final_title_indices": [
+        21,
+        22
+      ],
+      "source_title_indices": [
+        165,
+        166
+      ]
+    },
+    {
+      "window_index": 8,
+      "take_select_start_seconds": 217.664,
+      "take_select_end_seconds": 219.232,
+      "duration_seconds": 1.568,
+      "final_title_indices": [
+        23
+      ],
+      "source_title_indices": [
+        167
+      ]
+    },
+    {
+      "window_index": 9,
+      "take_select_start_seconds": 220.834,
+      "take_select_end_seconds": 223.837,
+      "duration_seconds": 3.003,
+      "final_title_indices": [
+        24,
+        25,
+        26
+      ],
+      "source_title_indices": [
+        168,
+        169,
+        170
+      ]
+    },
+    {
+      "window_index": 10,
+      "take_select_start_seconds": 225.772,
+      "take_select_end_seconds": 229.743,
+      "duration_seconds": 3.97,
+      "final_title_indices": [
+        27,
+        28,
+        29,
+        30
+      ],
+      "source_title_indices": [
+        172,
+        173,
+        174,
+        175
+      ]
+    },
+    {
+      "window_index": 11,
+      "take_select_start_seconds": 233.18,
+      "take_select_end_seconds": 236.149,
+      "duration_seconds": 2.969,
+      "final_title_indices": [
+        31,
+        32,
+        33,
+        34
+      ],
+      "source_title_indices": [
+        176,
+        177,
+        178,
+        179
+      ]
+    },
+    {
+      "window_index": 12,
+      "take_select_start_seconds": 242.889,
+      "take_select_end_seconds": 247.627,
+      "duration_seconds": 4.738,
+      "final_title_indices": [
+        35,
+        36,
+        37,
+        38
+      ],
+      "source_title_indices": [
+        184,
+        185,
+        186,
+        187
+      ]
+    },
+    {
+      "window_index": 13,
+      "take_select_start_seconds": 248.261,
+      "take_select_end_seconds": 249.629,
+      "duration_seconds": 1.368,
+      "final_title_indices": [
+        39
+      ],
+      "source_title_indices": [
+        188
+      ]
+    },
+    {
+      "window_index": 14,
+      "take_select_start_seconds": 252.466,
+      "take_select_end_seconds": 253.7,
+      "duration_seconds": 1.234,
+      "final_title_indices": [
+        40
+      ],
+      "source_title_indices": [
+        191
+      ]
+    },
+    {
+      "window_index": 15,
+      "take_select_start_seconds": 268.348,
+      "take_select_end_seconds": 269.883,
+      "duration_seconds": 1.535,
+      "final_title_indices": [
+        41,
+        42
+      ],
+      "source_title_indices": [
+        203,
+        204
+      ]
+    },
+    {
+      "window_index": 16,
+      "take_select_start_seconds": 272.052,
+      "take_select_end_seconds": 273.119,
+      "duration_seconds": 1.067,
+      "final_title_indices": [
+        43
+      ],
+      "source_title_indices": [
+        206
+      ]
+    },
+    {
+      "window_index": 17,
+      "take_select_start_seconds": 283.397,
+      "take_select_end_seconds": 286.499,
+      "duration_seconds": 3.103,
+      "final_title_indices": [
+        44,
+        45
+      ],
+      "source_title_indices": [
+        215,
+        216
+      ]
+    },
+    {
+      "window_index": 18,
+      "take_select_start_seconds": 299.246,
+      "take_select_end_seconds": 302.048,
+      "duration_seconds": 2.802,
+      "final_title_indices": [
+        46,
+        47
+      ],
+      "source_title_indices": [
+        220,
+        221
+      ]
+    },
+    {
+      "window_index": 19,
+      "take_select_start_seconds": 312.959,
+      "take_select_end_seconds": 314.661,
+      "duration_seconds": 1.701,
+      "final_title_indices": [
+        48
+      ],
+      "source_title_indices": [
+        230
+      ]
+    },
+    {
+      "window_index": 20,
+      "take_select_start_seconds": 321.268,
+      "take_select_end_seconds": 322.402,
+      "duration_seconds": 1.134,
+      "final_title_indices": [
+        49
+      ],
+      "source_title_indices": [
+        238
+      ]
+    },
+    {
+      "window_index": 21,
+      "take_select_start_seconds": 328.108,
+      "take_select_end_seconds": 330.577,
+      "duration_seconds": 2.469,
+      "final_title_indices": [
+        50,
+        51,
+        52
+      ],
+      "source_title_indices": [
+        243,
+        244,
+        245
+      ]
+    },
+    {
+      "window_index": 22,
+      "take_select_start_seconds": 331.344,
+      "take_select_end_seconds": 335.348,
+      "duration_seconds": 4.004,
+      "final_title_indices": [
+        55,
+        56,
+        57,
+        59
+      ],
+      "source_title_indices": [
+        246,
+        247,
+        248,
+        249
+      ]
+    },
+    {
+      "window_index": 23,
+      "take_select_start_seconds": 336.183,
+      "take_select_end_seconds": 339.019,
+      "duration_seconds": 2.836,
+      "final_title_indices": [
+        60,
+        61
+      ],
+      "source_title_indices": [
+        251,
+        252
+      ]
+    },
+    {
+      "window_index": 24,
+      "take_select_start_seconds": 340.32,
+      "take_select_end_seconds": 342.489,
+      "duration_seconds": 2.169,
+      "final_title_indices": [
+        62,
+        63
+      ],
+      "source_title_indices": [
+        253,
+        254
+      ]
+    },
+    {
+      "window_index": 25,
+      "take_select_start_seconds": 345.859,
+      "take_select_end_seconds": 347.36,
+      "duration_seconds": 1.501,
+      "final_title_indices": [
+        64
+      ],
+      "source_title_indices": [
+        257
+      ]
+    },
+    {
+      "window_index": 26,
+      "take_select_start_seconds": 355.869,
+      "take_select_end_seconds": 358.171,
+      "duration_seconds": 2.302,
+      "final_title_indices": [
+        65,
+        66
+      ],
+      "source_title_indices": [
+        262,
+        263
+      ]
+    },
+    {
+      "window_index": 27,
+      "take_select_start_seconds": 391.471,
+      "take_select_end_seconds": 394.407,
+      "duration_seconds": 2.936,
+      "final_title_indices": [
+        67,
+        68,
+        69
+      ],
+      "source_title_indices": [
+        288,
+        289,
+        290
+      ]
+    },
+    {
+      "window_index": 28,
+      "take_select_start_seconds": 411.925,
+      "take_select_end_seconds": 413.393,
+      "duration_seconds": 1.468,
+      "final_title_indices": [
+        70,
+        71
+      ],
+      "source_title_indices": [
+        305,
+        306
+      ]
+    },
+    {
+      "window_index": 29,
+      "take_select_start_seconds": 421.368,
+      "take_select_end_seconds": 422.168,
+      "duration_seconds": 0.8,
+      "final_title_indices": [
+        72
+      ],
+      "source_title_indices": [
+        314
+      ]
+    }
+  ],
+  "mapped_source_ranges": [
+    {
+      "range_index": 1,
+      "take_index": 12,
+      "take_select_start_seconds": 80.36,
+      "take_select_end_seconds": 88.468,
+      "source_start_seconds": 233.86,
+      "source_end_seconds": 241.968,
+      "duration_seconds": 8.108
+    },
+    {
+      "range_index": 2,
+      "take_index": 19,
+      "take_select_start_seconds": 157.104,
+      "take_select_end_seconds": 158.805,
+      "source_start_seconds": 343.87,
+      "source_end_seconds": 345.572,
+      "duration_seconds": 1.701
+    },
+    {
+      "range_index": 3,
+      "take_index": 20,
+      "take_select_start_seconds": 160.807,
+      "take_select_end_seconds": 163.81,
+      "source_start_seconds": 356.774,
+      "source_end_seconds": 359.777,
+      "duration_seconds": 3.003
+    },
+    {
+      "range_index": 4,
+      "take_index": 20,
+      "take_select_start_seconds": 165.612,
+      "take_select_end_seconds": 168.782,
+      "source_start_seconds": 361.579,
+      "source_end_seconds": 364.748,
+      "duration_seconds": 3.17
+    },
+    {
+      "range_index": 5,
+      "take_index": 21,
+      "take_select_start_seconds": 180.627,
+      "take_select_end_seconds": 181.695,
+      "source_start_seconds": 382.794,
+      "source_end_seconds": 383.861,
+      "duration_seconds": 1.067
+    },
+    {
+      "range_index": 6,
+      "take_index": 22,
+      "take_select_start_seconds": 186.733,
+      "take_select_end_seconds": 192.839,
+      "source_start_seconds": 392.867,
+      "source_end_seconds": 398.972,
+      "duration_seconds": 6.106
+    },
+    {
+      "range_index": 7,
+      "take_index": 22,
+      "take_select_start_seconds": 195.175,
+      "take_select_end_seconds": 196.977,
+      "source_start_seconds": 401.308,
+      "source_end_seconds": 403.11,
+      "duration_seconds": 1.802
+    },
+    {
+      "range_index": 8,
+      "take_index": 23,
+      "take_select_start_seconds": 217.664,
+      "take_select_end_seconds": 219.232,
+      "source_start_seconds": 429.198,
+      "source_end_seconds": 430.765,
+      "duration_seconds": 1.568
+    },
+    {
+      "range_index": 9,
+      "take_index": 24,
+      "take_select_start_seconds": 220.834,
+      "take_select_end_seconds": 223.837,
+      "source_start_seconds": 434.601,
+      "source_end_seconds": 437.603,
+      "duration_seconds": 3.003
+    },
+    {
+      "range_index": 10,
+      "take_index": 25,
+      "take_select_start_seconds": 225.772,
+      "take_select_end_seconds": 229.743,
+      "source_start_seconds": 442.372,
+      "source_end_seconds": 446.343,
+      "duration_seconds": 3.97
+    },
+    {
+      "range_index": 11,
+      "take_index": 25,
+      "take_select_start_seconds": 233.18,
+      "take_select_end_seconds": 236.149,
+      "source_start_seconds": 449.78,
+      "source_end_seconds": 452.749,
+      "duration_seconds": 2.969
+    },
+    {
+      "range_index": 12,
+      "take_index": 25,
+      "take_select_start_seconds": 242.889,
+      "take_select_end_seconds": 247.627,
+      "source_start_seconds": 459.489,
+      "source_end_seconds": 464.227,
+      "duration_seconds": 4.738
+    },
+    {
+      "range_index": 13,
+      "take_index": 26,
+      "take_select_start_seconds": 248.261,
+      "take_select_end_seconds": 249.629,
+      "source_start_seconds": 467.228,
+      "source_end_seconds": 468.596,
+      "duration_seconds": 1.368
+    },
+    {
+      "range_index": 14,
+      "take_index": 26,
+      "take_select_start_seconds": 252.466,
+      "take_select_end_seconds": 253.7,
+      "source_start_seconds": 471.432,
+      "source_end_seconds": 472.667,
+      "duration_seconds": 1.234
+    },
+    {
+      "range_index": 15,
+      "take_index": 27,
+      "take_select_start_seconds": 268.348,
+      "take_select_end_seconds": 269.883,
+      "source_start_seconds": 490.548,
+      "source_end_seconds": 492.083,
+      "duration_seconds": 1.535
+    },
+    {
+      "range_index": 16,
+      "take_index": 27,
+      "take_select_start_seconds": 272.052,
+      "take_select_end_seconds": 273.119,
+      "source_start_seconds": 494.252,
+      "source_end_seconds": 495.319,
+      "duration_seconds": 1.067
+    },
+    {
+      "range_index": 17,
+      "take_index": 27,
+      "take_select_start_seconds": 283.397,
+      "take_select_end_seconds": 283.5,
+      "source_start_seconds": 505.597,
+      "source_end_seconds": 505.7,
+      "duration_seconds": 0.103
+    },
+    {
+      "range_index": 18,
+      "take_index": 28,
+      "take_select_start_seconds": 283.5,
+      "take_select_end_seconds": 286.499,
+      "source_start_seconds": 511.367,
+      "source_end_seconds": 514.366,
+      "duration_seconds": 2.999
+    },
+    {
+      "range_index": 19,
+      "take_index": 28,
+      "take_select_start_seconds": 299.246,
+      "take_select_end_seconds": 302.048,
+      "source_start_seconds": 527.112,
+      "source_end_seconds": 529.915,
+      "duration_seconds": 2.802
+    },
+    {
+      "range_index": 20,
+      "take_index": 29,
+      "take_select_start_seconds": 312.959,
+      "take_select_end_seconds": 314.661,
+      "source_start_seconds": 544.026,
+      "source_end_seconds": 545.727,
+      "duration_seconds": 1.701
+    },
+    {
+      "range_index": 21,
+      "take_index": 30,
+      "take_select_start_seconds": 321.268,
+      "take_select_end_seconds": 322.402,
+      "source_start_seconds": 555.568,
+      "source_end_seconds": 556.702,
+      "duration_seconds": 1.134
+    },
+    {
+      "range_index": 22,
+      "take_index": 30,
+      "take_select_start_seconds": 328.108,
+      "take_select_end_seconds": 330.4,
+      "source_start_seconds": 562.408,
+      "source_end_seconds": 564.7,
+      "duration_seconds": 2.292
+    },
+    {
+      "range_index": 23,
+      "take_index": 31,
+      "take_select_start_seconds": 330.4,
+      "take_select_end_seconds": 330.577,
+      "source_start_seconds": 577.4,
+      "source_end_seconds": 577.577,
+      "duration_seconds": 0.177
+    },
+    {
+      "range_index": 24,
+      "take_index": 31,
+      "take_select_start_seconds": 331.344,
+      "take_select_end_seconds": 335.348,
+      "source_start_seconds": 578.344,
+      "source_end_seconds": 582.348,
+      "duration_seconds": 4.004
+    },
+    {
+      "range_index": 25,
+      "take_index": 31,
+      "take_select_start_seconds": 336.183,
+      "take_select_end_seconds": 339.019,
+      "source_start_seconds": 583.183,
+      "source_end_seconds": 586.019,
+      "duration_seconds": 2.836
+    },
+    {
+      "range_index": 26,
+      "take_index": 32,
+      "take_select_start_seconds": 340.32,
+      "take_select_end_seconds": 342.489,
+      "source_start_seconds": 593.32,
+      "source_end_seconds": 595.489,
+      "duration_seconds": 2.169
+    },
+    {
+      "range_index": 27,
+      "take_index": 32,
+      "take_select_start_seconds": 345.859,
+      "take_select_end_seconds": 347.36,
+      "source_start_seconds": 598.859,
+      "source_end_seconds": 600.36,
+      "duration_seconds": 1.501
+    },
+    {
+      "range_index": 28,
+      "take_index": 32,
+      "take_select_start_seconds": 355.869,
+      "take_select_end_seconds": 358.171,
+      "source_start_seconds": 608.869,
+      "source_end_seconds": 611.171,
+      "duration_seconds": 2.302
+    },
+    {
+      "range_index": 29,
+      "take_index": 35,
+      "take_select_start_seconds": 391.471,
+      "take_select_end_seconds": 394.407,
+      "source_start_seconds": 658.971,
+      "source_end_seconds": 661.907,
+      "duration_seconds": 2.936
+    },
+    {
+      "range_index": 30,
+      "take_index": 36,
+      "take_select_start_seconds": 411.925,
+      "take_select_end_seconds": 413.393,
+      "source_start_seconds": 681.958,
+      "source_end_seconds": 683.426,
+      "duration_seconds": 1.468
+    },
+    {
+      "range_index": 31,
+      "take_index": 36,
+      "take_select_start_seconds": 421.368,
+      "take_select_end_seconds": 422.168,
+      "source_start_seconds": 691.401,
+      "source_end_seconds": 692.202,
+      "duration_seconds": 0.8
+    }
+  ]
+}

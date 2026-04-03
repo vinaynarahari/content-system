@@ -1,0 +1,64 @@
+{
+  "words": [
+    {
+      "text": "Of",
+      "start_ticks": 0,
+      "end_ticks": 3600
+    },
+    {
+      "text": "the",
+      "start_ticks": 3600,
+      "end_ticks": 5400
+    },
+    {
+      "text": "million",
+      "start_ticks": 5400,
+      "end_ticks": 10800
+    },
+    {
+      "text": "reasons",
+      "start_ticks": 10800,
+      "end_ticks": 20400
+    },
+    {
+      "text": "your",
+      "start_ticks": 20400,
+      "end_ticks": 27000
+    },
+    {
+      "text": "vibe",
+      "start_ticks": 27000,
+      "end_ticks": 32400
+    },
+    {
+      "text": "coding",
+      "start_ticks": 32400,
+      "end_ticks": 38400
+    },
+    {
+      "text": "sounds",
+      "start_ticks": 38400,
+      "end_ticks": 48600
+    },
+    {
+      "text": "better",
+      "start_ticks": 48600,
+      "end_ticks": 57000
+    },
+    {
+      "text": "than",
+      "start_ticks": 57000,
+      "end_ticks": 61800
+    },
+    {
+      "text": "it",
+      "start_ticks": 61800,
+      "end_ticks": 64800
+    },
+    {
+      "text": "works,",
+      "start_ticks": 64800,
+      "end_ticks": 72000
+    }
+  ]
+}

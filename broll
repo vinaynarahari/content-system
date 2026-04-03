@@ -1,0 +1,42 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+export TOKENIZERS_PARALLELISM=false
+
+if [[ $# -lt 1 ]]; then
+  echo "Usage: broll <seconds> [extra args...]" >&2
+  exit 1
+fi
+
+target_seconds="$1"
+shift
+
+has_source_dir=0
+
+for arg in "$@"; do
+  case "$arg" in
+    --source-dir|--source-dir=*)
+      has_source_dir=1
+      ;;
+  esac
+done
+
+cmd=(python3 "$SCRIPT_DIR/make_broll.py" "$target_seconds")
+
+if [[ $has_source_dir -eq 0 ]]; then
+  if [[ -d /Volumes/Untitled ]]; then
+    cmd+=(--source-dir /Volumes/Untitled)
+  else
+    cmd+=(--source-dir "$SCRIPT_DIR")
+  fi
+fi
+
+cmd+=("$@")
+exec "${cmd[@]}"

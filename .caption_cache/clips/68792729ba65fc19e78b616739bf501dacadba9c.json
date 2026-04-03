@@ -1,0 +1,29 @@
+{
+  "words": [
+    {
+      "text": "it's",
+      "start_ticks": 635000,
+      "end_ticks": 638600
+    },
+    {
+      "text": "still",
+      "start_ticks": 638600,
+      "end_ticks": 642800
+    },
+    {
+      "text": "working",
+      "start_ticks": 642800,
+      "end_ticks": 651200
+    },
+    {
+      "text": "with",
+      "start_ticks": 651200,
+      "end_ticks": 656000
+    },
+    {
+      "text": "amnesia.",
+      "start_ticks": 656000,
+      "end_ticks": 668600
+    }
+  ]
+}

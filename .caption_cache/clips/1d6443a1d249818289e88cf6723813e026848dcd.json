@@ -1,0 +1,29 @@
+{
+  "words": [
+    {
+      "text": "And",
+      "start_ticks": 672000,
+      "end_ticks": 675000
+    },
+    {
+      "text": "once",
+      "start_ticks": 675000,
+      "end_ticks": 679800
+    },
+    {
+      "text": "you",
+      "start_ticks": 679800,
+      "end_ticks": 682200
+    },
+    {
+      "text": "see",
+      "start_ticks": 682200,
+      "end_ticks": 687000
+    },
+    {
+      "text": "that,",
+      "start_ticks": 687000,
+      "end_ticks": 692400
+    }
+  ]
+}

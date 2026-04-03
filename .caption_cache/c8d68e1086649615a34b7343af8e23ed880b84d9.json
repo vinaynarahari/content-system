@@ -1,0 +1,29 @@
+{
+  "words": [
+    {
+      "text": "That",
+      "start_ticks": 0,
+      "end_ticks": 6000
+    },
+    {
+      "text": "should",
+      "start_ticks": 6000,
+      "end_ticks": 15000
+    },
+    {
+      "text": "be",
+      "start_ticks": 15000,
+      "end_ticks": 19800
+    },
+    {
+      "text": "enough.",
+      "start_ticks": 19800,
+      "end_ticks": 27600
+    },
+    {
+      "text": "Okay.",
+      "start_ticks": 1480800,
+      "end_ticks": 1494000
+    }
+  ]
+}

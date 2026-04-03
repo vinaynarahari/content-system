@@ -1,0 +1,672 @@
+{
+  "source_fcpxml": "/Users/vinaynarahari/B-Roll/IMG_7969_take_select.fcpxml",
+  "selector_report": "/Users/vinaynarahari/B-Roll/analysis/IMG_7969.dead-space-report.json",
+  "used_take_count": 25,
+  "used_takes": [
+    {
+      "take_index": 2,
+      "source_start_seconds": 74.3,
+      "source_end_seconds": 77.1,
+      "take_duration_seconds": 2.8,
+      "used_duration_seconds": 0.6,
+      "used_parts": [
+        {
+          "keep_index": 1,
+          "keep_source_start_seconds": 75.267,
+          "keep_source_end_seconds": 75.867,
+          "overlap_start_seconds": 75.267,
+          "overlap_end_seconds": 75.867,
+          "overlap_duration_seconds": 0.6
+        }
+      ]
+    },
+    {
+      "take_index": 3,
+      "source_start_seconds": 90.4,
+      "source_end_seconds": 101.167,
+      "take_duration_seconds": 10.767,
+      "used_duration_seconds": 0.867,
+      "used_parts": [
+        {
+          "keep_index": 2,
+          "keep_source_start_seconds": 98.9,
+          "keep_source_end_seconds": 99.767,
+          "overlap_start_seconds": 98.9,
+          "overlap_end_seconds": 99.767,
+          "overlap_duration_seconds": 0.867
+        }
+      ]
+    },
+    {
+      "take_index": 4,
+      "source_start_seconds": 105.1,
+      "source_end_seconds": 113.1,
+      "take_duration_seconds": 8.0,
+      "used_duration_seconds": 1.034,
+      "used_parts": [
+        {
+          "keep_index": 3,
+          "keep_source_start_seconds": 107.833,
+          "keep_source_end_seconds": 108.867,
+          "overlap_start_seconds": 107.833,
+          "overlap_end_seconds": 108.867,
+          "overlap_duration_seconds": 1.034
+        }
+      ]
+    },
+    {
+      "take_index": 8,
+      "source_start_seconds": 167.467,
+      "source_end_seconds": 174.3,
+      "take_duration_seconds": 6.833,
+      "used_duration_seconds": 0.8,
+      "used_parts": [
+        {
+          "keep_index": 4,
+          "keep_source_start_seconds": 168.7,
+          "keep_source_end_seconds": 169.5,
+          "overlap_start_seconds": 168.7,
+          "overlap_end_seconds": 169.5,
+          "overlap_duration_seconds": 0.8
+        }
+      ]
+    },
+    {
+      "take_index": 11,
+      "source_start_seconds": 201.9,
+      "source_end_seconds": 207.0,
+      "take_duration_seconds": 5.1,
+      "used_duration_seconds": 0.867,
+      "used_parts": [
+        {
+          "keep_index": 5,
+          "keep_source_start_seconds": 204.7,
+          "keep_source_end_seconds": 205.567,
+          "overlap_start_seconds": 204.7,
+          "overlap_end_seconds": 205.567,
+          "overlap_duration_seconds": 0.867
+        }
+      ]
+    },
+    {
+      "take_index": 12,
+      "source_start_seconds": 221.3,
+      "source_end_seconds": 251.767,
+      "take_duration_seconds": 30.467,
+      "used_duration_seconds": 1.801,
+      "used_parts": [
+        {
+          "keep_index": 6,
+          "keep_source_start_seconds": 222.233,
+          "keep_source_end_seconds": 223.367,
+          "overlap_start_seconds": 222.233,
+          "overlap_end_seconds": 223.367,
+          "overlap_duration_seconds": 1.134
+        },
+        {
+          "keep_index": 7,
+          "keep_source_start_seconds": 241.533,
+          "keep_source_end_seconds": 242.2,
+          "overlap_start_seconds": 241.533,
+          "overlap_end_seconds": 242.2,
+          "overlap_duration_seconds": 0.667
+        }
+      ]
+    },
+    {
+      "take_index": 14,
+      "source_start_seconds": 274.3,
+      "source_end_seconds": 281.367,
+      "take_duration_seconds": 7.067,
+      "used_duration_seconds": 2.167,
+      "used_parts": [
+        {
+          "keep_index": 8,
+          "keep_source_start_seconds": 275.3,
+          "keep_source_end_seconds": 276.467,
+          "overlap_start_seconds": 275.3,
+          "overlap_end_seconds": 276.467,
+          "overlap_duration_seconds": 1.167
+        },
+        {
+          "keep_index": 9,
+          "keep_source_start_seconds": 279.267,
+          "keep_source_end_seconds": 280.267,
+          "overlap_start_seconds": 279.267,
+          "overlap_end_seconds": 280.267,
+          "overlap_duration_seconds": 1.0
+        }
+      ]
+    },
+    {
+      "take_index": 15,
+      "source_start_seconds": 284.467,
+      "source_end_seconds": 291.6,
+      "take_duration_seconds": 7.133,
+      "used_duration_seconds": 1.133,
+      "used_parts": [
+        {
+          "keep_index": 10,
+          "keep_source_start_seconds": 287.767,
+          "keep_source_end_seconds": 288.9,
+          "overlap_start_seconds": 287.767,
+          "overlap_end_seconds": 288.9,
+          "overlap_duration_seconds": 1.133
+        }
+      ]
+    },
+    {
+      "take_index": 16,
+      "source_start_seconds": 294.0,
+      "source_end_seconds": 309.4,
+      "take_duration_seconds": 15.4,
+      "used_duration_seconds": 1.466,
+      "used_parts": [
+        {
+          "keep_index": 11,
+          "keep_source_start_seconds": 297.267,
+          "keep_source_end_seconds": 297.933,
+          "overlap_start_seconds": 297.267,
+          "overlap_end_seconds": 297.933,
+          "overlap_duration_seconds": 0.666
+        },
+        {
+          "keep_index": 12,
+          "keep_source_start_seconds": 303.8,
+          "keep_source_end_seconds": 304.6,
+          "overlap_start_seconds": 303.8,
+          "overlap_end_seconds": 304.6,
+          "overlap_duration_seconds": 0.8
+        }
+      ]
+    },
+    {
+      "take_index": 18,
+      "source_start_seconds": 326.5,
+      "source_end_seconds": 339.067,
+      "take_duration_seconds": 12.567,
+      "used_duration_seconds": 1.266,
+      "used_parts": [
+        {
+          "keep_index": 13,
+          "keep_source_start_seconds": 334.667,
+          "keep_source_end_seconds": 335.333,
+          "overlap_start_seconds": 334.667,
+          "overlap_end_seconds": 335.333,
+          "overlap_duration_seconds": 0.666
+        },
+        {
+          "keep_index": 14,
+          "keep_source_start_seconds": 337.367,
+          "keep_source_end_seconds": 337.967,
+          "overlap_start_seconds": 337.367,
+          "overlap_end_seconds": 337.967,
+          "overlap_duration_seconds": 0.6
+        }
+      ]
+    },
+    {
+      "take_index": 20,
+      "source_start_seconds": 355.267,
+      "source_end_seconds": 375.7,
+      "take_duration_seconds": 20.433,
+      "used_duration_seconds": 0.766,
+      "used_parts": [
+        {
+          "keep_index": 15,
+          "keep_source_start_seconds": 372.767,
+          "keep_source_end_seconds": 373.533,
+          "overlap_start_seconds": 372.767,
+          "overlap_end_seconds": 373.533,
+          "overlap_duration_seconds": 0.766
+        }
+      ]
+    },
+    {
+      "take_index": 21,
+      "source_start_seconds": 381.9,
+      "source_end_seconds": 387.4,
+      "take_duration_seconds": 5.5,
+      "used_duration_seconds": 1.667,
+      "used_parts": [
+        {
+          "keep_index": 16,
+          "keep_source_start_seconds": 383.167,
+          "keep_source_end_seconds": 384.067,
+          "overlap_start_seconds": 383.167,
+          "overlap_end_seconds": 384.067,
+          "overlap_duration_seconds": 0.9
+        },
+        {
+          "keep_index": 17,
+          "keep_source_start_seconds": 384.733,
+          "keep_source_end_seconds": 385.5,
+          "overlap_start_seconds": 384.733,
+          "overlap_end_seconds": 385.5,
+          "overlap_duration_seconds": 0.767
+        }
+      ]
+    },
+    {
+      "take_index": 22,
+      "source_start_seconds": 391.367,
+      "source_end_seconds": 410.4,
+      "take_duration_seconds": 19.033,
+      "used_duration_seconds": 1.3,
+      "used_parts": [
+        {
+          "keep_index": 18,
+          "keep_source_start_seconds": 392.333,
+          "keep_source_end_seconds": 393.633,
+          "overlap_start_seconds": 392.333,
+          "overlap_end_seconds": 393.633,
+          "overlap_duration_seconds": 1.3
+        }
+      ]
+    },
+    {
+      "take_index": 24,
+      "source_start_seconds": 433.6,
+      "source_end_seconds": 438.867,
+      "take_duration_seconds": 5.267,
+      "used_duration_seconds": 0.9,
+      "used_parts": [
+        {
+          "keep_index": 19,
+          "keep_source_start_seconds": 436.7,
+          "keep_source_end_seconds": 437.6,
+          "overlap_start_seconds": 436.7,
+          "overlap_end_seconds": 437.6,
+          "overlap_duration_seconds": 0.9
+        }
+      ]
+    },
+    {
+      "take_index": 25,
+      "source_start_seconds": 441.7,
+      "source_end_seconds": 464.8,
+      "take_duration_seconds": 23.1,
+      "used_duration_seconds": 1.2,
+      "used_parts": [
+        {
+          "keep_index": 20,
+          "keep_source_start_seconds": 442.633,
+          "keep_source_end_seconds": 443.833,
+          "overlap_start_seconds": 442.633,
+          "overlap_end_seconds": 443.833,
+          "overlap_duration_seconds": 1.2
+        }
+      ]
+    },
+    {
+      "take_index": 27,
+      "source_start_seconds": 489.3,
+      "source_end_seconds": 505.7,
+      "take_duration_seconds": 16.4,
+      "used_duration_seconds": 1.534,
+      "used_parts": [
+        {
+          "keep_index": 21,
+          "keep_source_start_seconds": 490.233,
+          "keep_source_end_seconds": 491.1,
+          "overlap_start_seconds": 490.233,
+          "overlap_end_seconds": 491.1,
+          "overlap_duration_seconds": 0.867
+        },
+        {
+          "keep_index": 22,
+          "keep_source_start_seconds": 497.3,
+          "keep_source_end_seconds": 497.967,
+          "overlap_start_seconds": 497.3,
+          "overlap_end_seconds": 497.967,
+          "overlap_duration_seconds": 0.667
+        }
+      ]
+    },
+    {
+      "take_index": 28,
+      "source_start_seconds": 511.367,
+      "source_end_seconds": 530.3,
+      "take_duration_seconds": 18.933,
+      "used_duration_seconds": 1.333,
+      "used_parts": [
+        {
+          "keep_index": 23,
+          "keep_source_start_seconds": 517.167,
+          "keep_source_end_seconds": 517.867,
+          "overlap_start_seconds": 517.167,
+          "overlap_end_seconds": 517.867,
+          "overlap_duration_seconds": 0.7
+        },
+        {
+          "keep_index": 24,
+          "keep_source_start_seconds": 518.667,
+          "keep_source_end_seconds": 519.3,
+          "overlap_start_seconds": 518.667,
+          "overlap_end_seconds": 519.3,
+          "overlap_duration_seconds": 0.633
+        }
+      ]
+    },
+    {
+      "take_index": 29,
+      "source_start_seconds": 533.5,
+      "source_end_seconds": 551.067,
+      "take_duration_seconds": 17.567,
+      "used_duration_seconds": 2.2,
+      "used_parts": [
+        {
+          "keep_index": 25,
+          "keep_source_start_seconds": 536.8,
+          "keep_source_end_seconds": 538.367,
+          "overlap_start_seconds": 536.8,
+          "overlap_end_seconds": 538.367,
+          "overlap_duration_seconds": 1.567
+        },
+        {
+          "keep_index": 26,
+          "keep_source_start_seconds": 545.1,
+          "keep_source_end_seconds": 545.733,
+          "overlap_start_seconds": 545.1,
+          "overlap_end_seconds": 545.733,
+          "overlap_duration_seconds": 0.633
+        }
+      ]
+    },
+    {
+      "take_index": 32,
+      "source_start_seconds": 592.6,
+      "source_end_seconds": 611.3,
+      "take_duration_seconds": 18.7,
+      "used_duration_seconds": 2.367,
+      "used_parts": [
+        {
+          "keep_index": 27,
+          "keep_source_start_seconds": 594.067,
+          "keep_source_end_seconds": 594.767,
+          "overlap_start_seconds": 594.067,
+          "overlap_end_seconds": 594.767,
+          "overlap_duration_seconds": 0.7
+        },
+        {
+          "keep_index": 28,
+          "keep_source_start_seconds": 598.833,
+          "keep_source_end_seconds": 599.533,
+          "overlap_start_seconds": 598.833,
+          "overlap_end_seconds": 599.533,
+          "overlap_duration_seconds": 0.7
+        },
+        {
+          "keep_index": 29,
+          "keep_source_start_seconds": 609.1,
+          "keep_source_end_seconds": 610.067,
+          "overlap_start_seconds": 609.1,
+          "overlap_end_seconds": 610.067,
+          "overlap_duration_seconds": 0.967
+        }
+      ]
+    },
+    {
+      "take_index": 33,
+      "source_start_seconds": 614.967,
+      "source_end_seconds": 637.267,
+      "take_duration_seconds": 22.3,
+      "used_duration_seconds": 6.733,
+      "used_parts": [
+        {
+          "keep_index": 30,
+          "keep_source_start_seconds": 616.0,
+          "keep_source_end_seconds": 617.5,
+          "overlap_start_seconds": 616.0,
+          "overlap_end_seconds": 617.5,
+          "overlap_duration_seconds": 1.5
+        },
+        {
+          "keep_index": 31,
+          "keep_source_start_seconds": 619.567,
+          "keep_source_end_seconds": 621.2,
+          "overlap_start_seconds": 619.567,
+          "overlap_end_seconds": 621.2,
+          "overlap_duration_seconds": 1.633
+        },
+        {
+          "keep_index": 32,
+          "keep_source_start_seconds": 625.167,
+          "keep_source_end_seconds": 625.967,
+          "overlap_start_seconds": 625.167,
+          "overlap_end_seconds": 625.967,
+          "overlap_duration_seconds": 0.8
+        },
+        {
+          "keep_index": 33,
+          "keep_source_start_seconds": 628.8,
+          "keep_source_end_seconds": 629.767,
+          "overlap_start_seconds": 628.8,
+          "overlap_end_seconds": 629.767,
+          "overlap_duration_seconds": 0.967
+        },
+        {
+          "keep_index": 34,
+          "keep_source_start_seconds": 633.6,
+          "keep_source_end_seconds": 635.433,
+          "overlap_start_seconds": 633.6,
+          "overlap_end_seconds": 635.433,
+          "overlap_duration_seconds": 1.833
+        }
+      ]
+    },
+    {
+      "take_index": 34,
+      "source_start_seconds": 640.8,
+      "source_end_seconds": 650.1,
+      "take_duration_seconds": 9.3,
+      "used_duration_seconds": 2.801,
+      "used_parts": [
+        {
+          "keep_index": 35,
+          "keep_source_start_seconds": 641.733,
+          "keep_source_end_seconds": 643.467,
+          "overlap_start_seconds": 641.733,
+          "overlap_end_seconds": 643.467,
+          "overlap_duration_seconds": 1.734
+        },
+        {
+          "keep_index": 36,
+          "keep_source_start_seconds": 647.933,
+          "keep_source_end_seconds": 649.0,
+          "overlap_start_seconds": 647.933,
+          "overlap_end_seconds": 649.0,
+          "overlap_duration_seconds": 1.067
+        }
+      ]
+    },
+    {
+      "take_index": 35,
+      "source_start_seconds": 657.4,
+      "source_end_seconds": 663.867,
+      "take_duration_seconds": 6.467,
+      "used_duration_seconds": 2.134,
+      "used_parts": [
+        {
+          "keep_index": 37,
+          "keep_source_start_seconds": 658.633,
+          "keep_source_end_seconds": 659.667,
+          "overlap_start_seconds": 658.633,
+          "overlap_end_seconds": 659.667,
+          "overlap_duration_seconds": 1.034
+        },
+        {
+          "keep_index": 38,
+          "keep_source_start_seconds": 660.267,
+          "keep_source_end_seconds": 661.367,
+          "overlap_start_seconds": 660.267,
+          "overlap_end_seconds": 661.367,
+          "overlap_duration_seconds": 1.1
+        }
+      ]
+    },
+    {
+      "take_index": 36,
+      "source_start_seconds": 666.4,
+      "source_end_seconds": 693.5,
+      "take_duration_seconds": 27.1,
+      "used_duration_seconds": 8.067,
+      "used_parts": [
+        {
+          "keep_index": 39,
+          "keep_source_start_seconds": 670.433,
+          "keep_source_end_seconds": 671.333,
+          "overlap_start_seconds": 670.433,
+          "overlap_end_seconds": 671.333,
+          "overlap_duration_seconds": 0.9
+        },
+        {
+          "keep_index": 40,
+          "keep_source_start_seconds": 676.8,
+          "keep_source_end_seconds": 677.967,
+          "overlap_start_seconds": 676.8,
+          "overlap_end_seconds": 677.967,
+          "overlap_duration_seconds": 1.167
+        },
+        {
+          "keep_index": 41,
+          "keep_source_start_seconds": 680.133,
+          "keep_source_end_seconds": 681.3,
+          "overlap_start_seconds": 680.133,
+          "overlap_end_seconds": 681.3,
+          "overlap_duration_seconds": 1.167
+        },
+        {
+          "keep_index": 42,
+          "keep_source_start_seconds": 685.067,
+          "keep_source_end_seconds": 686.3,
+          "overlap_start_seconds": 685.067,
+          "overlap_end_seconds": 686.3,
+          "overlap_duration_seconds": 1.233
+        },
+        {
+          "keep_index": 43,
+          "keep_source_start_seconds": 687.0,
+          "keep_source_end_seconds": 688.833,
+          "overlap_start_seconds": 687.0,
+          "overlap_end_seconds": 688.833,
+          "overlap_duration_seconds": 1.833
+        },
+        {
+          "keep_index": 44,
+          "keep_source_start_seconds": 690.3,
+          "keep_source_end_seconds": 692.067,
+          "overlap_start_seconds": 690.3,
+          "overlap_end_seconds": 692.067,
+          "overlap_duration_seconds": 1.767
+        }
+      ]
+    },
+    {
+      "take_index": 37,
+      "source_start_seconds": 699.8,
+      "source_end_seconds": 727.867,
+      "take_duration_seconds": 28.067,
+      "used_duration_seconds": 9.467,
+      "used_parts": [
+        {
+          "keep_index": 45,
+          "keep_source_start_seconds": 700.767,
+          "keep_source_end_seconds": 702.3,
+          "overlap_start_seconds": 700.767,
+          "overlap_end_seconds": 702.3,
+          "overlap_duration_seconds": 1.533
+        },
+        {
+          "keep_index": 46,
+          "keep_source_start_seconds": 704.333,
+          "keep_source_end_seconds": 706.1,
+          "overlap_start_seconds": 704.333,
+          "overlap_end_seconds": 706.1,
+          "overlap_duration_seconds": 1.767
+        },
+        {
+          "keep_index": 47,
+          "keep_source_start_seconds": 707.633,
+          "keep_source_end_seconds": 708.667,
+          "overlap_start_seconds": 707.633,
+          "overlap_end_seconds": 708.667,
+          "overlap_duration_seconds": 1.034
+        },
+        {
+          "keep_index": 48,
+          "keep_source_start_seconds": 710.633,
+          "keep_source_end_seconds": 711.667,
+          "overlap_start_seconds": 710.633,
+          "overlap_end_seconds": 711.667,
+          "overlap_duration_seconds": 1.034
+        },
+        {
+          "keep_index": 49,
+          "keep_source_start_seconds": 715.133,
+          "keep_source_end_seconds": 716.333,
+          "overlap_start_seconds": 715.133,
+          "overlap_end_seconds": 716.333,
+          "overlap_duration_seconds": 1.2
+        },
+        {
+          "keep_index": 50,
+          "keep_source_start_seconds": 718.567,
+          "keep_source_end_seconds": 719.533,
+          "overlap_start_seconds": 718.567,
+          "overlap_end_seconds": 719.533,
+          "overlap_duration_seconds": 0.966
+        },
+        {
+          "keep_index": 51,
+          "keep_source_start_seconds": 723.0,
+          "keep_source_end_seconds": 724.0,
+          "overlap_start_seconds": 723.0,
+          "overlap_end_seconds": 724.0,
+          "overlap_duration_seconds": 1.0
+        },
+        {
+          "keep_index": 52,
+          "keep_source_start_seconds": 725.3,
+          "keep_source_end_seconds": 726.233,
+          "overlap_start_seconds": 725.3,
+          "overlap_end_seconds": 726.233,
+          "overlap_duration_seconds": 0.933
+        }
+      ]
+    },
+    {
+      "take_index": 38,
+      "source_start_seconds": 735.267,
+      "source_end_seconds": 744.433,
+      "take_duration_seconds": 9.167,
+      "used_duration_seconds": 2.066,
+      "used_parts": [
+        {
+          "keep_index": 53,
+          "keep_source_start_seconds": 736.2,
+          "keep_source_end_seconds": 737.167,
+          "overlap_start_seconds": 736.2,
+          "overlap_end_seconds": 737.167,
+          "overlap_duration_seconds": 0.967
+        },
+        {
+          "keep_index": 54,
+          "keep_source_start_seconds": 740.467,
+          "keep_source_end_seconds": 741.2,
+          "overlap_start_seconds": 740.467,
+          "overlap_end_seconds": 741.2,
+          "overlap_duration_seconds": 0.733
+        },
+        {
+          "keep_index": 55,
+          "keep_source_start_seconds": 744.067,
+          "keep_source_end_seconds": 744.467,
+          "overlap_start_seconds": 744.067,
+          "overlap_end_seconds": 744.433,
+          "overlap_duration_seconds": 0.366
+        }
+      ]
+    }
+  ]
+}

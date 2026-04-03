@@ -1,0 +1,49 @@
+{
+  "words": [
+    {
+      "text": "Most",
+      "start_ticks": 179000,
+      "end_ticks": 184400
+    },
+    {
+      "text": "people",
+      "start_ticks": 184400,
+      "end_ticks": 190400
+    },
+    {
+      "text": "think",
+      "start_ticks": 190400,
+      "end_ticks": 197600
+    },
+    {
+      "text": "that",
+      "start_ticks": 197600,
+      "end_ticks": 201200
+    },
+    {
+      "text": "the",
+      "start_ticks": 201200,
+      "end_ticks": 203600
+    },
+    {
+      "text": "problem",
+      "start_ticks": 203600,
+      "end_ticks": 213200
+    },
+    {
+      "text": "is",
+      "start_ticks": 213200,
+      "end_ticks": 217400
+    },
+    {
+      "text": "the",
+      "start_ticks": 217400,
+      "end_ticks": 219800
+    },
+    {
+      "text": "model.",
+      "start_ticks": 219800,
+      "end_ticks": 227000
+    }
+  ]
+}

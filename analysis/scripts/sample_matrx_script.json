@@ -1,0 +1,200 @@
+{
+  "source": {
+    "source": "/private/tmp/matrx_source.txt",
+    "title": "matrx_source",
+    "uploader": "local",
+    "duration_seconds": 12.0,
+    "transcript_source": "file:.txt"
+  },
+  "analysis": {
+    "structure_template": "contrarian-problem-solution",
+    "hook_text": "The problem isn't the model. It's the missing layer.",
+    "source_word_count": 37,
+    "estimated_source_seconds": 12.0,
+    "sentence_count": 5,
+    "cadence_hint_words_per_line": 11,
+    "detected_elements": [
+      {
+        "name": "pain",
+        "score": 0.9,
+        "evidence": [
+          "The problem isn't the model.",
+          "Every team using AI keeps paying the same hidden tax."
+        ]
+      },
+      {
+        "name": "contrarian",
+        "score": 0.7,
+        "evidence": [
+          "The problem isn't the model."
+        ]
+      },
+      {
+        "name": "reframe",
+        "score": 0.7,
+        "evidence": [
+          "The problem isn't the model."
+        ]
+      }
+    ]
+  },
+  "creator_profiles": [
+    {
+      "slug": "alex-hormozi",
+      "display_name": "Alex Hormozi",
+      "research_status": "researched",
+      "platform_fit": "Direct-response business short form built around blunt hooks, one big problem, and a tactical payoff.",
+      "voice_traits": [
+        "Start with the claim, not the setup",
+        "Use blunt, second-person pressure",
+        "Keep one core idea per clip",
+        "Translate insight into a concrete business consequence",
+        "End with a sharp takeaway instead of a soft fade-out"
+      ],
+      "hook_patterns": [
+        "You're not getting [result] because of [hidden reason].",
+        "The problem isn't [obvious thing]. It's [deeper thing].",
+        "If I had to do [goal] again, I'd do this first.",
+        "Here's why [common behavior] keeps failing."
+      ],
+      "script_rules": [
+        "Front-load the problem in the first sentence",
+        "Use contrast words like but, instead, or actually to create tension",
+        "Name the hidden tax or cost of doing nothing",
+        "Land on mechanism plus payoff, not vague motivation"
+      ],
+      "avoid": [
+        "Long scene-setting intros",
+        "Abstract inspiration without an operational point",
+        "More than one major claim in 30 seconds"
+      ]
+    },
+    {
+      "slug": "short-form-founder",
+      "display_name": "Short-Form Founder",
+      "research_status": "researched",
+      "platform_fit": "Founder-led Reels/TikToks that explain a market problem quickly, then reframe the product as infrastructure.",
+      "voice_traits": [
+        "Lead with an observed pain the audience already feels",
+        "Compress the explanation into a single memorable line",
+        "Use company-level stakes, not only personal productivity",
+        "Favor short spoken lines with clean caption breaks"
+      ],
+      "hook_patterns": [
+        "If your team uses AI every day, you're paying for this mistake already.",
+        "Everyone talks about smarter models. That's not the hard part.",
+        "This is the hidden tax behind [workflow].",
+        "Most teams think they need another tool. They need a missing layer."
+      ],
+      "script_rules": [
+        "Open on a felt pain or false belief",
+        "Introduce the product as the missing layer",
+        "Explain memory, governance, or compounding quality in plain English",
+        "Close on a strategic reframe"
+      ],
+      "avoid": [
+        "Jargon-heavy explanation",
+        "Long product lists",
+        "Trying to cram every feature into one clip"
+      ]
+    }
+  ],
+  "skipped_profiles": [],
+  "brief_claims": {
+    "problem": "Teams keep re-explaining the same context, re-litigating the same decisions, and re-debugging the same failures because the assistant never truly becomes part of the organization.",
+    "solution": "MTRX is the intelligent layer that sits between you or your team and the AI coding assistants you already use, so those assistants can remember the right things, stay inside your org's rules and limits, and learn from what actually happened in your projects.",
+    "mechanism": "MATRX surfaces that context at the right moment so the assistant's answers fit the real situation better without anyone re-pasting everything every time.",
+    "payoff": "MTRX turns AI coding assistants into a managed company capability: governed, measurable, and grounded in what your teams actually build.",
+    "positioning": "MTRX turns AI coding assistants into a managed company capability: governed, measurable, and grounded in what your teams actually build."
+  },
+  "generated": {
+    "selected_hook": "The model isn't the problem. The missing layer is.",
+    "hook_options": [
+      "The model isn't the problem. The missing layer is.",
+      "AI coding assistants are smart. They're just alone.",
+      "AI gives you intelligence. MTRX gives it memory.",
+      "The hidden cost of AI coding is the forgetting."
+    ],
+    "script_lines": [
+      "The model isn't the problem. The missing layer is.",
+      "So teams keep reloading context, re-solving the same failures, and",
+      "re-paying the same tax.",
+      "MTRX sits between your team and the assistants you already",
+      "use.",
+      "It remembers what matters, keeps them inside your rules, and",
+      "learns from what actually worked.",
+      "That turns AI coding into a governed company capability.",
+      "So AI stops acting like a chat and starts behaving",
+      "like infrastructure."
+    ],
+    "script_text": "The model isn't the problem. The missing layer is.\nSo teams keep reloading context, re-solving the same failures, and\nre-paying the same tax.\nMTRX sits between your team and the assistants you already\nuse.\nIt remembers what matters, keeps them inside your rules, and\nlearns from what actually worked.\nThat turns AI coding into a governed company capability.\nSo AI stops acting like a chat and starts behaving\nlike infrastructure.",
+    "estimated_duration_seconds": 24.38,
+    "beats": [
+      {
+        "index": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 2.92,
+        "text": "The model isn't the problem. The missing layer is."
+      },
+      {
+        "index": 2,
+        "start_seconds": 2.92,
+        "end_seconds": 6.49,
+        "text": "So teams keep reloading context, re-solving the same failures, and"
+      },
+      {
+        "index": 3,
+        "start_seconds": 6.49,
+        "end_seconds": 8.11,
+        "text": "re-paying the same tax."
+      },
+      {
+        "index": 4,
+        "start_seconds": 8.11,
+        "end_seconds": 11.35,
+        "text": "MTRX sits between your team and the assistants you already"
+      },
+      {
+        "index": 5,
+        "start_seconds": 11.35,
+        "end_seconds": 12.35,
+        "text": "use."
+      },
+      {
+        "index": 6,
+        "start_seconds": 12.35,
+        "end_seconds": 15.59,
+        "text": "It remembers what matters, keeps them inside your rules, and"
+      },
+      {
+        "index": 7,
+        "start_seconds": 15.59,
+        "end_seconds": 17.22,
+        "text": "learns from what actually worked."
+      },
+      {
+        "index": 8,
+        "start_seconds": 17.22,
+        "end_seconds": 20.14,
+        "text": "That turns AI coding into a governed company capability."
+      },
+      {
+        "index": 9,
+        "start_seconds": 20.14,
+        "end_seconds": 23.38,
+        "text": "So AI stops acting like a chat and starts behaving"
+      },
+      {
+        "index": 10,
+        "start_seconds": 23.38,
+        "end_seconds": 24.38,
+        "text": "like infrastructure."
+      }
+    ],
+    "delivery_notes": [
+      "Land the hook in one breath. No soft intro before it.",
+      "Keep each line punchy enough to survive caption-only viewing.",
+      "Treat the middle as one tension arc: hidden tax -> missing layer -> payoff."
+    ]
+  }
+}

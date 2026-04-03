@@ -1,0 +1,54 @@
+{
+  "words": [
+    {
+      "text": "I",
+      "start_ticks": 78000,
+      "end_ticks": 81000
+    },
+    {
+      "text": "promise",
+      "start_ticks": 81000,
+      "end_ticks": 88200
+    },
+    {
+      "text": "you've",
+      "start_ticks": 88200,
+      "end_ticks": 95400
+    },
+    {
+      "text": "never",
+      "start_ticks": 95400,
+      "end_ticks": 102000
+    },
+    {
+      "text": "even",
+      "start_ticks": 102000,
+      "end_ticks": 108600
+    },
+    {
+      "text": "considered",
+      "start_ticks": 108600,
+      "end_ticks": 120000
+    },
+    {
+      "text": "the",
+      "start_ticks": 120000,
+      "end_ticks": 124800
+    },
+    {
+      "text": "most",
+      "start_ticks": 124800,
+      "end_ticks": 130200
+    },
+    {
+      "text": "important",
+      "start_ticks": 130200,
+      "end_ticks": 139200
+    },
+    {
+      "text": "one.",
+      "start_ticks": 139200,
+      "end_ticks": 145800
+    }
+  ]
+}

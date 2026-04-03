@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<fcpxml version="1.11">
+  <resources>
+    <format height="1080" id="r1" colorSpace="1-1-1 (Rec. 709)" name="FFVideoFormatRateUndefined" width="1920" frameDuration="1/30s" />
+    <asset audioSources="1" format="r1" duration="2699/30s" id="r2" audioChannels="2" hasAudio="1" start="0s" name="IMG_7969_sample90" hasVideo="1">
+      <media-rep src="file:///Users/vinaynarahari/B-Roll/IMG_7969_sample90.MOV" kind="original-media" />
+    </asset>
+  <effect id="r-custom-title" name="Custom" uid=".../Titles.localized/Build In:Out.localized/Custom.localized/Custom.moti" /></resources>
+  <library>
+    <event name="Auto-Editor Media Group">
+      <project name="IMG_7969_sample90">
+        <sequence tcStart="0s" format="r1" tcFormat="NDF" audioLayout="stereo" audioRate="48k">
+          <spine>
+            <gap name="Titles Gap" offset="0s" start="107999892/30000s" duration="2698696/30000s"><title ref="r-custom-title" lane="1" offset="107999892/30000s" name="Pop: THAT SHOULD&#10;BE" start="107999892/30000s" duration="20020/30000s"><param name="Alignment" key="9999/10199/10201/2/354/1002961760/401" value="1 (Center)" /><param name="Out Sequencing" key="9999/10199/10201/4/10233/201/202" value="0 (To)" /><param name="Color" key="9999/10199/10201/5/10203/14/16" value="1.06026 0.617676 -0.243766" /><param name="Wrap Mode" key="9999/10199/10201/5/10203/21/25/5" value="1 (Repeat)" /><param name="Font" key="9999/10199/10201/5/10203/83" value="99 4" /><text><text-style ref="ts1000">THAT SHOULD
+BE</text-style></text><text-style-def id="ts1000"><text-style font="Helvetica" fontSize="78" fontColor="1 0.546278 0 1" bold="1" alignment="center" /></text-style-def><adjust-transform position="0 18.3883" /></title><title ref="r-custom-title" lane="1" offset="108015908/30000s" name="Pop: ENOUGH." start="107999892/30000s" duration="12012/30000s"><param name="Alignment" key="9999/10199/10201/2/354/1002961760/401" value="1 (Center)" /><param name="Out Sequencing" key="9999/10199/10201/4/10233/201/202" value="0 (To)" /><param name="Color" key="9999/10199/10201/5/10203/14/16" value="1.06026 0.617676 -0.243766" /><param name="Wrap Mode" key="9999/10199/10201/5/10203/21/25/5" value="1 (Repeat)" /><param name="Font" key="9999/10199/10201/5/10203/83" value="99 4" /><text><text-style ref="ts1001">ENOUGH.</text-style></text><text-style-def id="ts1001"><text-style font="Helvetica" fontSize="78" fontColor="1 0.546278 0 1" bold="1" alignment="center" /></text-style-def><adjust-transform position="0 18.3883" /></title><title ref="r-custom-title" lane="1" offset="109477368/30000s" name="Pop: OKAY." start="107999892/30000s" duration="17017/30000s"><param name="Alignment" key="9999/10199/10201/2/354/1002961760/401" value="1 (Center)" /><param name="Out Sequencing" key="9999/10199/10201/4/10233/201/202" value="0 (To)" /><param name="Color" key="9999/10199/10201/5/10203/14/16" value="1.06026 0.617676 -0.243766" /><param name="Wrap Mode" key="9999/10199/10201/5/10203/21/25/5" value="1 (Repeat)" /><param name="Font" key="9999/10199/10201/5/10203/83" value="99 4" /><text><text-style ref="ts1002">OKAY.</text-style></text><text-style-def id="ts1002"><text-style font="Helvetica" fontSize="78" fontColor="1 0.546278 0 1" bold="1" alignment="center" /></text-style-def><adjust-transform position="0 18.3883" /></title></gap><asset-clip offset="0s" duration="2699/30s" tcFormat="NDF" start="0s" name="IMG_7969_sample90" ref="r2" />
+          </spine>
+        </sequence>
+      </project>
+    </event>
+  </library>
+</fcpxml>

@@ -1,0 +1,231 @@
+{
+  "source": {
+    "source": "/private/tmp/matrx_source.txt",
+    "title": "matrx_source",
+    "uploader": "local",
+    "duration_seconds": 12.0,
+    "transcript_source": "file:.txt"
+  },
+  "analysis": {
+    "structure_template": "contrarian-problem-solution",
+    "hook_text": "The problem isn't the model. It's the missing layer.",
+    "source_word_count": 37,
+    "estimated_source_seconds": 12.0,
+    "sentence_count": 5,
+    "cadence_hint_words_per_line": 11,
+    "detected_elements": [
+      {
+        "name": "pain",
+        "score": 0.9,
+        "evidence": [
+          "The problem isn't the model.",
+          "Every team using AI keeps paying the same hidden tax."
+        ]
+      },
+      {
+        "name": "contrarian",
+        "score": 0.7,
+        "evidence": [
+          "The problem isn't the model."
+        ]
+      },
+      {
+        "name": "reframe",
+        "score": 0.7,
+        "evidence": [
+          "The problem isn't the model."
+        ]
+      }
+    ]
+  },
+  "creator_profiles": [
+    {
+      "slug": "alex-hormozi",
+      "display_name": "Alex Hormozi",
+      "research_status": "researched",
+      "platform_fit": "Direct-response business short form built around blunt hooks, one big problem, and a tactical payoff.",
+      "voice_traits": [
+        "Start with the claim, not the setup",
+        "Use blunt, second-person pressure",
+        "Keep one core idea per clip",
+        "Translate insight into a concrete business consequence",
+        "End with a sharp takeaway instead of a soft fade-out"
+      ],
+      "hook_patterns": [
+        "You're not getting [result] because of [hidden reason].",
+        "The problem isn't [obvious thing]. It's [deeper thing].",
+        "If I had to do [goal] again, I'd do this first.",
+        "Here's why [common behavior] keeps failing."
+      ],
+      "script_rules": [
+        "Front-load the problem in the first sentence",
+        "Use contrast words like but, instead, or actually to create tension",
+        "Name the hidden tax or cost of doing nothing",
+        "Land on mechanism plus payoff, not vague motivation"
+      ],
+      "avoid": [
+        "Long scene-setting intros",
+        "Abstract inspiration without an operational point",
+        "More than one major claim in 30 seconds"
+      ]
+    },
+    {
+      "slug": "leila-hormozi",
+      "display_name": "Leila Hormozi",
+      "research_status": "researched",
+      "platform_fit": "Operator-first short form built around management pain, founder dependency, and system-level fixes.",
+      "voice_traits": [
+        "Open on an operator pain the audience already feels",
+        "Shift quickly from blame to standards, systems, or structure",
+        "Sound like a working CEO, not a motivational speaker",
+        "Use compact business truths that can stand alone as captions",
+        "Close on a principle that feels durable"
+      ],
+      "hook_patterns": [
+        "Your team is not the problem. Your system is.",
+        "If you have to say it twice, you don't have a process.",
+        "Most founders don't need more talent. They need clearer standards.",
+        "Here's why smart teams still move slowly."
+      ],
+      "script_rules": [
+        "Name the operator pain in the first line",
+        "Translate the pain into a systems problem",
+        "Use one clear management principle as the reveal",
+        "End on the business implication, not vague encouragement"
+      ],
+      "avoid": [
+        "Soft inspirational openings",
+        "Turning every point into a personal anecdote",
+        "Overexplaining before the reveal"
+      ]
+    },
+    {
+      "slug": "codie-sanchez",
+      "display_name": "Codie Sanchez",
+      "research_status": "researched",
+      "platform_fit": "Contrarian business short form that frames overlooked opportunities, hidden costs, and ownership-level upside.",
+      "voice_traits": [
+        "Use a contrarian angle early",
+        "Make the audience feel like they are missing an overlooked asset",
+        "Tie the idea to money, leverage, or ownership",
+        "Keep the language punchy and anti-corporate",
+        "Favor sharp, memorable maxims"
+      ],
+      "hook_patterns": [
+        "The boring answer is usually the profitable one.",
+        "Everyone is chasing the sexy solution and missing the real asset.",
+        "This is the hidden tax most founders never calculate.",
+        "If you don't choose your hard, your hard will choose you."
+      ],
+      "script_rules": [
+        "Use a contrarian opening, not a neutral setup",
+        "Make the hidden cost feel concrete",
+        "Reframe the product as leverage, not just convenience",
+        "End on ownership, scale, or compounding upside"
+      ],
+      "avoid": [
+        "Academic explanation",
+        "Feature dumping",
+        "Corporate-sounding language"
+      ]
+    }
+  ],
+  "skipped_profiles": [],
+  "brief_claims": {
+    "problem": "Teams keep re-explaining the same context, re-litigating the same decisions, and re-debugging the same failures because the assistant never truly becomes part of the organization.",
+    "solution": "MTRX is the intelligent layer that sits between you or your team and the AI coding assistants you already use, so those assistants can remember the right things, stay inside your org's rules and limits, and learn from what actually happened in your projects.",
+    "mechanism": "MATRX surfaces that context at the right moment so the assistant's answers fit the real situation better without anyone re-pasting everything every time.",
+    "payoff": "MTRX turns AI coding assistants into a managed company capability: governed, measurable, and grounded in what your teams actually build.",
+    "positioning": "MTRX turns AI coding assistants into a managed company capability: governed, measurable, and grounded in what your teams actually build."
+  },
+  "generated": {
+    "selected_hook": "The model isn't the problem. The missing layer is.",
+    "hook_options": [
+      "The model isn't the problem. The missing layer is.",
+      "AI coding assistants are smart. They're just alone.",
+      "AI gives you intelligence. MTRX gives it memory.",
+      "The hidden cost of AI coding is the forgetting."
+    ],
+    "script_lines": [
+      "The model isn't the problem. The missing layer is.",
+      "So teams keep reloading context, re-solving the same failures, and",
+      "re-paying the same tax.",
+      "MTRX sits between your team and the assistants you already",
+      "use.",
+      "It remembers what matters, keeps them inside your rules, and",
+      "learns from what actually worked.",
+      "That turns AI coding into a governed company capability.",
+      "So AI stops acting like a chat and starts behaving",
+      "like infrastructure."
+    ],
+    "script_text": "The model isn't the problem. The missing layer is.\nSo teams keep reloading context, re-solving the same failures, and\nre-paying the same tax.\nMTRX sits between your team and the assistants you already\nuse.\nIt remembers what matters, keeps them inside your rules, and\nlearns from what actually worked.\nThat turns AI coding into a governed company capability.\nSo AI stops acting like a chat and starts behaving\nlike infrastructure.",
+    "estimated_duration_seconds": 24.38,
+    "beats": [
+      {
+        "index": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 2.92,
+        "text": "The model isn't the problem. The missing layer is."
+      },
+      {
+        "index": 2,
+        "start_seconds": 2.92,
+        "end_seconds": 6.49,
+        "text": "So teams keep reloading context, re-solving the same failures, and"
+      },
+      {
+        "index": 3,
+        "start_seconds": 6.49,
+        "end_seconds": 8.11,
+        "text": "re-paying the same tax."
+      },
+      {
+        "index": 4,
+        "start_seconds": 8.11,
+        "end_seconds": 11.35,
+        "text": "MTRX sits between your team and the assistants you already"
+      },
+      {
+        "index": 5,
+        "start_seconds": 11.35,
+        "end_seconds": 12.35,
+        "text": "use."
+      },
+      {
+        "index": 6,
+        "start_seconds": 12.35,
+        "end_seconds": 15.59,
+        "text": "It remembers what matters, keeps them inside your rules, and"
+      },
+      {
+        "index": 7,
+        "start_seconds": 15.59,
+        "end_seconds": 17.22,
+        "text": "learns from what actually worked."
+      },
+      {
+        "index": 8,
+        "start_seconds": 17.22,
+        "end_seconds": 20.14,
+        "text": "That turns AI coding into a governed company capability."
+      },
+      {
+        "index": 9,
+        "start_seconds": 20.14,
+        "end_seconds": 23.38,
+        "text": "So AI stops acting like a chat and starts behaving"
+      },
+      {
+        "index": 10,
+        "start_seconds": 23.38,
+        "end_seconds": 24.38,
+        "text": "like infrastructure."
+      }
+    ],
+    "delivery_notes": [
+      "Land the hook in one breath. No soft intro before it.",
+      "Keep each line punchy enough to survive caption-only viewing.",
+      "Treat the middle as one tension arc: hidden tax -> missing layer -> payoff."
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "words": [
+    {
+      "text": "The",
+      "start_ticks": 249000,
+      "end_ticks": 251400
+    },
+    {
+      "text": "real",
+      "start_ticks": 251400,
+      "end_ticks": 253200
+    },
+    {
+      "text": "problem",
+      "start_ticks": 253200,
+      "end_ticks": 262200
+    },
+    {
+      "text": "is",
+      "start_ticks": 262200,
+      "end_ticks": 267000
+    },
+    {
+      "text": "that",
+      "start_ticks": 267000,
+      "end_ticks": 268800
+    },
+    {
+      "text": "your",
+      "start_ticks": 268800,
+      "end_ticks": 271200
+    },
+    {
+      "text": "agent",
+      "start_ticks": 271200,
+      "end_ticks": 279000
+    },
+    {
+      "text": "only",
+      "start_ticks": 279000,
+      "end_ticks": 285600
+    },
+    {
+      "text": "has",
+      "start_ticks": 285600,
+      "end_ticks": 290400
+    },
+    {
+      "text": "access",
+      "start_ticks": 290400,
+      "end_ticks": 300000
+    },
+    {
+      "text": "to",
+      "start_ticks": 300000,
+      "end_ticks": 304200
+    },
+    {
+      "text": "a",
+      "start_ticks": 304200,
+      "end_ticks": 306600
+    },
+    {
+      "text": "window",
+      "start_ticks": 306600,
+      "end_ticks": 312000
+    },
+    {
+      "text": "of",
+      "start_ticks": 312000,
+      "end_ticks": 315600
+    },
+    {
+      "text": "prompts.",
+      "start_ticks": 315600,
+      "end_ticks": 322200
+    }
+  ]
+}

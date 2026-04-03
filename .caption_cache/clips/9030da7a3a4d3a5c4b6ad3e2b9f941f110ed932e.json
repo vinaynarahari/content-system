@@ -1,0 +1,19 @@
+{
+  "words": [
+    {
+      "text": "It",
+      "start_ticks": 756000,
+      "end_ticks": 760200
+    },
+    {
+      "text": "was",
+      "start_ticks": 760200,
+      "end_ticks": 762000
+    },
+    {
+      "text": "memory.",
+      "start_ticks": 762000,
+      "end_ticks": 768600
+    }
+  ]
+}

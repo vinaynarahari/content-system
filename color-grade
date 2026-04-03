@@ -1,0 +1,57 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+
+if [[ $# -lt 1 ]]; then
+  echo "Usage: color-grade <video-or-fcpxml> [extra args...]" >&2
+  exit 1
+fi
+
+input="$1"
+shift
+
+has_lut=0
+has_look=0
+has_working_space=0
+has_overwrite=0
+
+for arg in "$@"; do
+  case "$arg" in
+    --lut|--lut=*)
+      has_lut=1
+      ;;
+    --look|--look=*)
+      has_look=1
+      ;;
+    --working-space|--working-space=*)
+      has_working_space=1
+      ;;
+    --overwrite)
+      has_overwrite=1
+      ;;
+  esac
+done
+
+cmd=(python3 "$SCRIPT_DIR/color_grade.py" "$input")
+
+if [[ $has_lut -eq 0 && $has_look -eq 0 ]]; then
+  cmd+=(--lut palm-springs)
+fi
+
+if [[ $has_working_space -eq 0 ]]; then
+  cmd+=(--working-space rec709)
+fi
+
+if [[ $has_overwrite -eq 0 ]]; then
+  cmd+=(--overwrite)
+fi
+
+cmd+=("$@")
+exec "${cmd[@]}"

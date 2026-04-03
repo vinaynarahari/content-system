@@ -1,0 +1,46 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+export TOKENIZERS_PARALLELISM=false
+
+if [[ $# -lt 1 ]]; then
+  echo "Usage: ./script <video-link-or-transcript-file> [extra args...]" >&2
+  exit 1
+fi
+
+source_input="$1"
+shift
+
+has_brief=0
+has_creator=0
+
+for arg in "$@"; do
+  case "$arg" in
+    --brief|--brief=*)
+      has_brief=1
+      ;;
+    --creator|--creator=*)
+      has_creator=1
+      ;;
+  esac
+done
+
+cmd=(python3 "$SCRIPT_DIR/video_script.py" "$source_input")
+
+if [[ $has_brief -eq 0 ]]; then
+  cmd+=(--brief "$SCRIPT_DIR/briefs/matrx.md")
+fi
+
+if [[ $has_creator -eq 0 ]]; then
+  cmd+=(--creator alex-hormozi --creator leila-hormozi --creator codie-sanchez)
+fi
+
+cmd+=("$@")
+exec "${cmd[@]}"

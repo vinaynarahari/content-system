@@ -1,0 +1,54 @@
+{
+  "words": [
+    {
+      "text": "It",
+      "start_ticks": 505000,
+      "end_ticks": 507400
+    },
+    {
+      "text": "doesn't",
+      "start_ticks": 507400,
+      "end_ticks": 515200
+    },
+    {
+      "text": "know",
+      "start_ticks": 515200,
+      "end_ticks": 518200
+    },
+    {
+      "text": "the",
+      "start_ticks": 518200,
+      "end_ticks": 521200
+    },
+    {
+      "text": "rules",
+      "start_ticks": 521200,
+      "end_ticks": 528400
+    },
+    {
+      "text": "it's",
+      "start_ticks": 528400,
+      "end_ticks": 534400
+    },
+    {
+      "text": "supposed",
+      "start_ticks": 534400,
+      "end_ticks": 537400
+    },
+    {
+      "text": "to",
+      "start_ticks": 537400,
+      "end_ticks": 544600
+    },
+    {
+      "text": "stay",
+      "start_ticks": 544600,
+      "end_ticks": 548200
+    },
+    {
+      "text": "inside.",
+      "start_ticks": 548200,
+      "end_ticks": 553600
+    }
+  ]
+}

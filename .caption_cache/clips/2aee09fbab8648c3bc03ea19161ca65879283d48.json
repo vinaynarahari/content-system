@@ -1,0 +1,44 @@
+{
+  "words": [
+    {
+      "text": "not",
+      "start_ticks": 332000,
+      "end_ticks": 336800
+    },
+    {
+      "text": "the",
+      "start_ticks": 336800,
+      "end_ticks": 339200
+    },
+    {
+      "text": "full",
+      "start_ticks": 339200,
+      "end_ticks": 343400
+    },
+    {
+      "text": "memory",
+      "start_ticks": 343400,
+      "end_ticks": 352400
+    },
+    {
+      "text": "of",
+      "start_ticks": 352400,
+      "end_ticks": 356600
+    },
+    {
+      "text": "what",
+      "start_ticks": 356600,
+      "end_ticks": 358400
+    },
+    {
+      "text": "was",
+      "start_ticks": 358400,
+      "end_ticks": 363800
+    },
+    {
+      "text": "done.",
+      "start_ticks": 363800,
+      "end_ticks": 368000
+    }
+  ]
+}
