@@ -1,0 +1,10 @@
+The problem with AI coding assistants isn't intelligence. It's memory.
+So teams keep reloading context, re-solving the same failures, and
+re-paying the same tax.
+MTRX sits between your team and the assistants you already
+use.
+It remembers what matters, keeps them inside your rules, and
+learns from what actually worked.
+That turns AI coding into a governed company capability.
+So AI stops acting like a chat and starts behaving
+like infrastructure.

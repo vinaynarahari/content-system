@@ -1,0 +1,61 @@
+{
+  "generated_at": "2026-04-03T17:04:00+00:00",
+  "counts": {
+    "all_items": 1,
+    "first_party_matrix": 1,
+    "first_party_voice": 0,
+    "external_reference": 0
+  },
+  "target_duration_seconds": 30.0,
+  "preferred_structures": [
+    {
+      "name": "contrarian-problem-solution",
+      "average_score": 0.0,
+      "count": 1
+    }
+  ],
+  "preferred_elements": [
+    {
+      "name": "contrarian",
+      "average_score": 0.0,
+      "count": 1
+    },
+    {
+      "name": "pain",
+      "average_score": 0.0,
+      "count": 1
+    },
+    {
+      "name": "reframe",
+      "average_score": 0.0,
+      "count": 1
+    }
+  ],
+  "voice_profile": {
+    "median_sentence_words": 9.0,
+    "avg_sentence_words": 9.0,
+    "item_count": 0
+  },
+  "top_examples": [
+    {
+      "content_id": "local_ea7fe2aff9c4",
+      "title": "studio_sample",
+      "owner_type": "first_party_matrix",
+      "performance_score": 0.0,
+      "structure_type": "contrarian-problem-solution",
+      "hook_text": "The problem isn't the model. Teams keep reloading context, re-solving failures, and paying the same tax."
+    }
+  ],
+  "recommendations": [
+    "Lean into `contrarian-problem-solution` structure first because it currently scores best in the Matrix set.",
+    "High-performing hooks most often use `contrarian` as the opening pattern.",
+    "Default target duration is `30.0s` based on the strongest available examples."
+  ],
+  "score_map": {
+    "local_ea7fe2aff9c4": {
+      "performance_score": 0.0,
+      "features": {},
+      "reference_engagement_score": 0.0
+    }
+  }
+}

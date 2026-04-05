@@ -1,0 +1,24 @@
+{
+  "platform_priority": "instagram",
+  "first_party_handles": {
+    "instagram": [
+      "vinnafella"
+    ],
+    "tiktok": [
+      "vinnafella"
+    ]
+  },
+  "yt_dlp": {
+    "cookies_from_browser": "",
+    "cookie_file": ""
+  },
+  "browser_session": {
+    "storage_state_path": "",
+    "headless": true
+  },
+  "defaults": {
+    "brief_path": "briefs/matrx.md",
+    "owner_type": "first_party_matrix",
+    "caption_mode": "instagram-variable"
+  }
+}

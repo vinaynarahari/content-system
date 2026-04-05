@@ -1,0 +1,86 @@
+{
+  "brand_reveal_insert_after_beat": 4,
+  "beats": [
+    {
+      "beat_index": 1,
+      "start_seconds": 0.0,
+      "end_seconds": 3.24,
+      "text": "The problem with AI coding assistants isn't intelligence. It's memory.",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 2,
+      "start_seconds": 3.24,
+      "end_seconds": 6.81,
+      "text": "So teams keep reloading context, re-solving the same failures, and",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 3,
+      "start_seconds": 6.81,
+      "end_seconds": 8.43,
+      "text": "re-paying the same tax.",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 4,
+      "start_seconds": 8.43,
+      "end_seconds": 11.68,
+      "text": "MTRX sits between your team and the assistants you already",
+      "visual": "brand_reveal",
+      "search_query": "matrx logo reveal"
+    },
+    {
+      "beat_index": 5,
+      "start_seconds": 11.68,
+      "end_seconds": 12.68,
+      "text": "use.",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 6,
+      "start_seconds": 12.68,
+      "end_seconds": 15.92,
+      "text": "It remembers what matters, keeps them inside your rules, and",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 7,
+      "start_seconds": 15.92,
+      "end_seconds": 17.54,
+      "text": "learns from what actually worked.",
+      "visual": "training",
+      "search_query": "ai model training data flow"
+    },
+    {
+      "beat_index": 8,
+      "start_seconds": 17.54,
+      "end_seconds": 20.46,
+      "text": "That turns AI coding into a governed company capability.",
+      "visual": "proof_screen",
+      "search_query": "analytics dashboard software screen"
+    },
+    {
+      "beat_index": 9,
+      "start_seconds": 20.46,
+      "end_seconds": 23.7,
+      "text": "So AI stops acting like a chat and starts behaving",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    },
+    {
+      "beat_index": 10,
+      "start_seconds": 23.7,
+      "end_seconds": 24.7,
+      "text": "like infrastructure.",
+      "visual": "builder_realworld",
+      "search_query": "developer building software typing closeup"
+    }
+  ],
+  "recommended_broll_style": "builder"
+}

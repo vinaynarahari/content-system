@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+SOURCE="${BASH_SOURCE[0]}"
+while [[ -L "$SOURCE" ]]; do
+  DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+  SOURCE="$(readlink "$SOURCE")"
+  [[ "$SOURCE" != /* ]] && SOURCE="$DIR/$SOURCE"
+done
+SCRIPT_DIR="$(cd -P "$(dirname "$SOURCE")" && pwd)"
+export TOKENIZERS_PARALLELISM=false
+
+if [[ $# -lt 1 ]]; then
+  echo "Usage: ./studio <command> [args...]" >&2
+  exit 1
+fi
+
+exec python3 "$SCRIPT_DIR/studio.py" "$@"

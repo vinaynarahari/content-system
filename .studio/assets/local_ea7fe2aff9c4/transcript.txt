@@ -1,0 +1,1 @@
+The problem isn't the model. Teams keep reloading context, re-solving failures, and paying the same tax. MTRX is the layer that remembers what matters and keeps AI coding aligned with the team.

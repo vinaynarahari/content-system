@@ -1,0 +1,635 @@
+{
+  "project_id": "mtrx-makes-ai-coding-assistants-_20260403_130413",
+  "input_ref": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+  "created_at": "2026-04-03T17:04:13+00:00",
+  "training_state_path": "/Users/vinaynarahari/B-Roll/analysis/studio/training_state.json",
+  "reference_items": [
+    {
+      "content_id": "local_ea7fe2aff9c4",
+      "title": "studio_sample",
+      "owner_type": "first_party_matrix"
+    }
+  ],
+  "recommended_candidate": {
+    "reference_content_id": "local_ea7fe2aff9c4",
+    "reference_title": "studio_sample",
+    "structure_template": "pain-reveal-payoff",
+    "creator_slugs": [
+      "alex-hormozi",
+      "leila-hormozi",
+      "codie-sanchez"
+    ],
+    "creator_names": [
+      "Alex Hormozi",
+      "Leila Hormozi",
+      "Codie Sanchez"
+    ],
+    "claims": {
+      "problem": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+      "solution": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+      "mechanism": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+      "payoff": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+      "positioning": "MTRX makes AI coding assistants remember what matters and stay aligned with the team."
+    },
+    "source_analysis": {
+      "hook_text": "The problem isn't the model. Teams keep reloading context, re-solving failures, and paying the same tax.",
+      "structure_template": "pain-reveal-payoff",
+      "detected_elements": [
+        {
+          "name": "contrarian",
+          "score": 0.7,
+          "evidence": [
+            "The problem isn't the model."
+          ]
+        },
+        {
+          "name": "pain",
+          "score": 0.7,
+          "evidence": [
+            "The problem isn't the model."
+          ]
+        },
+        {
+          "name": "reframe",
+          "score": 0.7,
+          "evidence": [
+            "The problem isn't the model."
+          ]
+        }
+      ]
+    },
+    "generated": {
+      "selected_hook": "The problem with AI coding assistants isn't intelligence. It's memory.",
+      "hook_options": [
+        "AI coding assistants are smart. They're just alone.",
+        "AI gives you intelligence. MTRX gives it memory.",
+        "The hidden cost of AI coding is the forgetting.",
+        "Your team doesn't need another AI chat. It needs a missing layer."
+      ],
+      "script_lines": [
+        "The problem with AI coding assistants isn't intelligence. It's memory.",
+        "So teams keep reloading context, re-solving the same failures, and",
+        "re-paying the same tax.",
+        "MTRX sits between your team and the assistants you already",
+        "use.",
+        "It remembers what matters, keeps them inside your rules, and",
+        "learns from what actually worked.",
+        "That turns AI coding into a governed company capability.",
+        "So AI stops acting like a chat and starts behaving",
+        "like infrastructure."
+      ],
+      "script_text": "The problem with AI coding assistants isn't intelligence. It's memory.\nSo teams keep reloading context, re-solving the same failures, and\nre-paying the same tax.\nMTRX sits between your team and the assistants you already\nuse.\nIt remembers what matters, keeps them inside your rules, and\nlearns from what actually worked.\nThat turns AI coding into a governed company capability.\nSo AI stops acting like a chat and starts behaving\nlike infrastructure.",
+      "estimated_duration_seconds": 24.7,
+      "beats": [
+        {
+          "index": 1,
+          "start_seconds": 0.0,
+          "end_seconds": 3.24,
+          "text": "The problem with AI coding assistants isn't intelligence. It's memory."
+        },
+        {
+          "index": 2,
+          "start_seconds": 3.24,
+          "end_seconds": 6.81,
+          "text": "So teams keep reloading context, re-solving the same failures, and"
+        },
+        {
+          "index": 3,
+          "start_seconds": 6.81,
+          "end_seconds": 8.43,
+          "text": "re-paying the same tax."
+        },
+        {
+          "index": 4,
+          "start_seconds": 8.43,
+          "end_seconds": 11.68,
+          "text": "MTRX sits between your team and the assistants you already"
+        },
+        {
+          "index": 5,
+          "start_seconds": 11.68,
+          "end_seconds": 12.68,
+          "text": "use."
+        },
+        {
+          "index": 6,
+          "start_seconds": 12.68,
+          "end_seconds": 15.92,
+          "text": "It remembers what matters, keeps them inside your rules, and"
+        },
+        {
+          "index": 7,
+          "start_seconds": 15.92,
+          "end_seconds": 17.54,
+          "text": "learns from what actually worked."
+        },
+        {
+          "index": 8,
+          "start_seconds": 17.54,
+          "end_seconds": 20.46,
+          "text": "That turns AI coding into a governed company capability."
+        },
+        {
+          "index": 9,
+          "start_seconds": 20.46,
+          "end_seconds": 23.7,
+          "text": "So AI stops acting like a chat and starts behaving"
+        },
+        {
+          "index": 10,
+          "start_seconds": 23.7,
+          "end_seconds": 24.7,
+          "text": "like infrastructure."
+        }
+      ],
+      "delivery_notes": [
+        "Land the hook in one breath. No soft intro before it.",
+        "Keep each line punchy enough to survive caption-only viewing.",
+        "Treat the middle as one tension arc: hidden tax -> missing layer -> payoff."
+      ]
+    },
+    "score": 0.734,
+    "score_reasons": [
+      "structure:pain-reveal-payoff=0.55",
+      "duration=0.82",
+      "coverage=0.70",
+      "clarity=0.91",
+      "hook=0.10"
+    ],
+    "risk_flags": []
+  },
+  "alternate_candidates": [
+    {
+      "reference_content_id": "local_ea7fe2aff9c4",
+      "reference_title": "studio_sample",
+      "structure_template": "story-turn-reveal",
+      "creator_slugs": [
+        "alex-hormozi",
+        "leila-hormozi",
+        "codie-sanchez"
+      ],
+      "creator_names": [
+        "Alex Hormozi",
+        "Leila Hormozi",
+        "Codie Sanchez"
+      ],
+      "claims": {
+        "problem": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "solution": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "mechanism": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "payoff": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "positioning": "MTRX makes AI coding assistants remember what matters and stay aligned with the team."
+      },
+      "source_analysis": {
+        "hook_text": "The problem isn't the model. Teams keep reloading context, re-solving failures, and paying the same tax.",
+        "structure_template": "story-turn-reveal",
+        "detected_elements": [
+          {
+            "name": "contrarian",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          },
+          {
+            "name": "pain",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          },
+          {
+            "name": "reframe",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          }
+        ]
+      },
+      "generated": {
+        "selected_hook": "The problem with AI coding assistants isn't intelligence. It's memory.",
+        "hook_options": [
+          "AI coding assistants are smart. They're just alone.",
+          "AI gives you intelligence. MTRX gives it memory.",
+          "The hidden cost of AI coding is the forgetting.",
+          "Your team doesn't need another AI chat. It needs a missing layer."
+        ],
+        "script_lines": [
+          "The problem with AI coding assistants isn't intelligence. It's memory.",
+          "It looks like a model problem at first.",
+          "But the real issue is everything the model can't carry",
+          "forward on its own.",
+          "MTRX sits between your team and the assistants you already",
+          "use.",
+          "It remembers what matters, keeps them inside your rules, and",
+          "learns from what actually worked.",
+          "So AI stops acting like a chat and starts behaving",
+          "like infrastructure."
+        ],
+        "script_text": "The problem with AI coding assistants isn't intelligence. It's memory.\nIt looks like a model problem at first.\nBut the real issue is everything the model can't carry\nforward on its own.\nMTRX sits between your team and the assistants you already\nuse.\nIt remembers what matters, keeps them inside your rules, and\nlearns from what actually worked.\nSo AI stops acting like a chat and starts behaving\nlike infrastructure.",
+        "estimated_duration_seconds": 23.73,
+        "beats": [
+          {
+            "index": 1,
+            "start_seconds": 0.0,
+            "end_seconds": 3.24,
+            "text": "The problem with AI coding assistants isn't intelligence. It's memory."
+          },
+          {
+            "index": 2,
+            "start_seconds": 3.24,
+            "end_seconds": 5.84,
+            "text": "It looks like a model problem at first."
+          },
+          {
+            "index": 3,
+            "start_seconds": 5.84,
+            "end_seconds": 9.08,
+            "text": "But the real issue is everything the model can't carry"
+          },
+          {
+            "index": 4,
+            "start_seconds": 9.08,
+            "end_seconds": 10.38,
+            "text": "forward on its own."
+          },
+          {
+            "index": 5,
+            "start_seconds": 10.38,
+            "end_seconds": 13.62,
+            "text": "MTRX sits between your team and the assistants you already"
+          },
+          {
+            "index": 6,
+            "start_seconds": 13.62,
+            "end_seconds": 14.62,
+            "text": "use."
+          },
+          {
+            "index": 7,
+            "start_seconds": 14.62,
+            "end_seconds": 17.86,
+            "text": "It remembers what matters, keeps them inside your rules, and"
+          },
+          {
+            "index": 8,
+            "start_seconds": 17.86,
+            "end_seconds": 19.49,
+            "text": "learns from what actually worked."
+          },
+          {
+            "index": 9,
+            "start_seconds": 19.49,
+            "end_seconds": 22.73,
+            "text": "So AI stops acting like a chat and starts behaving"
+          },
+          {
+            "index": 10,
+            "start_seconds": 22.73,
+            "end_seconds": 23.73,
+            "text": "like infrastructure."
+          }
+        ],
+        "delivery_notes": [
+          "Land the hook in one breath. No soft intro before it.",
+          "Keep each line punchy enough to survive caption-only viewing.",
+          "Treat the middle as one tension arc: hidden tax -> missing layer -> payoff."
+        ]
+      },
+      "score": 0.7219,
+      "score_reasons": [
+        "structure:story-turn-reveal=0.55",
+        "duration=0.79",
+        "coverage=0.70",
+        "clarity=0.88",
+        "hook=0.10"
+      ],
+      "risk_flags": []
+    },
+    {
+      "reference_content_id": "local_ea7fe2aff9c4",
+      "reference_title": "studio_sample",
+      "structure_template": "contrarian-problem-solution",
+      "creator_slugs": [
+        "alex-hormozi",
+        "leila-hormozi",
+        "codie-sanchez"
+      ],
+      "creator_names": [
+        "Alex Hormozi",
+        "Leila Hormozi",
+        "Codie Sanchez"
+      ],
+      "claims": {
+        "problem": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "solution": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "mechanism": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "payoff": "MTRX makes AI coding assistants remember what matters and stay aligned with the team.",
+        "positioning": "MTRX makes AI coding assistants remember what matters and stay aligned with the team."
+      },
+      "source_analysis": {
+        "hook_text": "The problem isn't the model. Teams keep reloading context, re-solving failures, and paying the same tax.",
+        "structure_template": "contrarian-problem-solution",
+        "detected_elements": [
+          {
+            "name": "contrarian",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          },
+          {
+            "name": "pain",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          },
+          {
+            "name": "reframe",
+            "score": 0.7,
+            "evidence": [
+              "The problem isn't the model."
+            ]
+          }
+        ]
+      },
+      "generated": {
+        "selected_hook": "The model isn't the problem. The missing layer is.",
+        "hook_options": [
+          "The model isn't the problem. The missing layer is.",
+          "AI coding assistants are smart. They're just alone.",
+          "AI gives you intelligence. MTRX gives it memory.",
+          "The hidden cost of AI coding is the forgetting."
+        ],
+        "script_lines": [
+          "The model isn't the problem. The missing layer is.",
+          "So teams keep reloading context, re-solving the same failures, and",
+          "re-paying the same tax.",
+          "MTRX sits between your team and the assistants you already",
+          "use.",
+          "It remembers what matters, keeps them inside your rules, and",
+          "learns from what actually worked.",
+          "That turns AI coding into a governed company capability.",
+          "So AI stops acting like a chat and starts behaving",
+          "like infrastructure."
+        ],
+        "script_text": "The model isn't the problem. The missing layer is.\nSo teams keep reloading context, re-solving the same failures, and\nre-paying the same tax.\nMTRX sits between your team and the assistants you already\nuse.\nIt remembers what matters, keeps them inside your rules, and\nlearns from what actually worked.\nThat turns AI coding into a governed company capability.\nSo AI stops acting like a chat and starts behaving\nlike infrastructure.",
+        "estimated_duration_seconds": 24.38,
+        "beats": [
+          {
+            "index": 1,
+            "start_seconds": 0.0,
+            "end_seconds": 2.92,
+            "text": "The model isn't the problem. The missing layer is."
+          },
+          {
+            "index": 2,
+            "start_seconds": 2.92,
+            "end_seconds": 6.49,
+            "text": "So teams keep reloading context, re-solving the same failures, and"
+          },
+          {
+            "index": 3,
+            "start_seconds": 6.49,
+            "end_seconds": 8.11,
+            "text": "re-paying the same tax."
+          },
+          {
+            "index": 4,
+            "start_seconds": 8.11,
+            "end_seconds": 11.35,
+            "text": "MTRX sits between your team and the assistants you already"
+          },
+          {
+            "index": 5,
+            "start_seconds": 11.35,
+            "end_seconds": 12.35,
+            "text": "use."
+          },
+          {
+            "index": 6,
+            "start_seconds": 12.35,
+            "end_seconds": 15.59,
+            "text": "It remembers what matters, keeps them inside your rules, and"
+          },
+          {
+            "index": 7,
+            "start_seconds": 15.59,
+            "end_seconds": 17.22,
+            "text": "learns from what actually worked."
+          },
+          {
+            "index": 8,
+            "start_seconds": 17.22,
+            "end_seconds": 20.14,
+            "text": "That turns AI coding into a governed company capability."
+          },
+          {
+            "index": 9,
+            "start_seconds": 20.14,
+            "end_seconds": 23.38,
+            "text": "So AI stops acting like a chat and starts behaving"
+          },
+          {
+            "index": 10,
+            "start_seconds": 23.38,
+            "end_seconds": 24.38,
+            "text": "like infrastructure."
+          }
+        ],
+        "delivery_notes": [
+          "Land the hook in one breath. No soft intro before it.",
+          "Keep each line punchy enough to survive caption-only viewing.",
+          "Treat the middle as one tension arc: hidden tax -> missing layer -> payoff."
+        ]
+      },
+      "score": 0.5375,
+      "score_reasons": [
+        "structure:contrarian-problem-solution=0.00",
+        "duration=0.81",
+        "coverage=0.70",
+        "clarity=0.90",
+        "hook=0.10"
+      ],
+      "risk_flags": []
+    }
+  ],
+  "broll_plan": {
+    "brand_reveal_insert_after_beat": 4,
+    "beats": [
+      {
+        "beat_index": 1,
+        "start_seconds": 0.0,
+        "end_seconds": 3.24,
+        "text": "The problem with AI coding assistants isn't intelligence. It's memory.",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 2,
+        "start_seconds": 3.24,
+        "end_seconds": 6.81,
+        "text": "So teams keep reloading context, re-solving the same failures, and",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 3,
+        "start_seconds": 6.81,
+        "end_seconds": 8.43,
+        "text": "re-paying the same tax.",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 4,
+        "start_seconds": 8.43,
+        "end_seconds": 11.68,
+        "text": "MTRX sits between your team and the assistants you already",
+        "visual": "brand_reveal",
+        "search_query": "matrx logo reveal"
+      },
+      {
+        "beat_index": 5,
+        "start_seconds": 11.68,
+        "end_seconds": 12.68,
+        "text": "use.",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 6,
+        "start_seconds": 12.68,
+        "end_seconds": 15.92,
+        "text": "It remembers what matters, keeps them inside your rules, and",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 7,
+        "start_seconds": 15.92,
+        "end_seconds": 17.54,
+        "text": "learns from what actually worked.",
+        "visual": "training",
+        "search_query": "ai model training data flow"
+      },
+      {
+        "beat_index": 8,
+        "start_seconds": 17.54,
+        "end_seconds": 20.46,
+        "text": "That turns AI coding into a governed company capability.",
+        "visual": "proof_screen",
+        "search_query": "analytics dashboard software screen"
+      },
+      {
+        "beat_index": 9,
+        "start_seconds": 20.46,
+        "end_seconds": 23.7,
+        "text": "So AI stops acting like a chat and starts behaving",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      },
+      {
+        "beat_index": 10,
+        "start_seconds": 23.7,
+        "end_seconds": 24.7,
+        "text": "like infrastructure.",
+        "visual": "builder_realworld",
+        "search_query": "developer building software typing closeup"
+      }
+    ],
+    "recommended_broll_style": "builder"
+  },
+  "post_caption": "The problem with AI coding assistants isn't intelligence. It's memory.\n\nSo teams keep reloading context, re-solving the same failures, and re-paying the same tax.\n\nFollow for systems that make AI coding feel less forgetful and more usable.",
+  "hashtags": [
+    {
+      "tag": "#ai",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#aitools",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#artificialintelligence",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#aiautomation",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#coding",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#developer",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#softwareengineer",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#buildinpublic",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#agenticai",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#aicoding",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#developertools",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#engineering",
+      "reason": "Matches the `agentic` angle of the script."
+    }
+  ],
+  "music_recommendations": [
+    {
+      "query": "subtle driving startup underscore",
+      "reason": "Works for explanatory clips with forward motion.",
+      "energy": "medium"
+    },
+    {
+      "query": "clean motivational tech pulse",
+      "reason": "Fits polished Reels voiceover with business stakes.",
+      "energy": "medium"
+    }
+  ],
+  "brand_reveal": {
+    "status": "ready",
+    "mov": "/Users/vinaynarahari/B-Roll/Completed/matrx_brand_reveal_vertical.mov",
+    "mp4": "/Users/vinaynarahari/B-Roll/Completed/matrx_brand_reveal_vertical_preview.mp4"
+  },
+  "caption_result": {
+    "status": "skipped"
+  },
+  "broll_result": {
+    "status": "skipped"
+  },
+  "commands": [
+    {
+      "label": "Generate MATRX brand reveal if missing",
+      "command": "python3 make_matrx_reveal.py"
+    },
+    {
+      "label": "Generate supporting B-roll montage",
+      "command": "./broll 11.1 --style builder"
+    },
+    {
+      "label": "Review the generated project package",
+      "command": "open /Users/vinaynarahari/B-Roll/.studio/projects/mtrx-makes-ai-coding-assistants-_20260403_130413"
+    }
+  ],
+  "fcpxml": "",
+  "caption_mode": "instagram-variable"
+}

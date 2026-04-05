@@ -1,0 +1,65 @@
+{
+  "post_caption": "The problem with AI coding assistants isn't intelligence. It's memory.\n\nSo teams keep reloading context, re-solving the same failures, and re-paying the same tax.\n\nFollow for systems that make AI coding feel less forgetful and more usable.",
+  "hashtags": [
+    {
+      "tag": "#ai",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#aitools",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#artificialintelligence",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#aiautomation",
+      "reason": "Matches the `ai` angle of the script."
+    },
+    {
+      "tag": "#coding",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#developer",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#softwareengineer",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#buildinpublic",
+      "reason": "Matches the `coding` angle of the script."
+    },
+    {
+      "tag": "#agenticai",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#aicoding",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#developertools",
+      "reason": "Matches the `agentic` angle of the script."
+    },
+    {
+      "tag": "#engineering",
+      "reason": "Matches the `agentic` angle of the script."
+    }
+  ],
+  "music_recommendations": [
+    {
+      "query": "subtle driving startup underscore",
+      "reason": "Works for explanatory clips with forward motion.",
+      "energy": "medium"
+    },
+    {
+      "query": "clean motivational tech pulse",
+      "reason": "Fits polished Reels voiceover with business stakes.",
+      "energy": "medium"
+    }
+  ]
+}
